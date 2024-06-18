@@ -32,7 +32,9 @@ Follow the same steps as before to allow the assistant to also control the light
 
 --- task ---
 
-+ Return to Scratch and reload the code you saved earlier (**File** > **Load from my computer**).
++ Load your new model into Scratch (**Make** > **Scratch 3** > **Open in Scratch 3**)
+
++ In Scratch reload the code you saved earlier (**File** > **Load from my computer**).
 
 + Add two more `if` blocks to your program so that you can type commands to control the light.
 
@@ -43,5 +45,17 @@ Follow the same steps as before to allow the assistant to also control the light
 + Test whether your program works.
 
 --- /task ---
+
+
+--- collapse ---
+---
+title: I can't see the new blocks in Scratch
+---
+
+If you have trained a new model, you will need to close Scratch and then re-open it from the Machine Learning for Kids website for the blocks to appear.
+
+Click **Make** > **Scratch 3** > **Open in Scratch 3**
+
+--- /collapse ---
 
 --- /challenge ---
