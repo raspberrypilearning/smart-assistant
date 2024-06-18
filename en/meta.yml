@@ -9,10 +9,10 @@ last_tested: '2019-05-09'
 steps:
 - title: Introduction
 - title: Set up the project
-- title: Train your assistant
+- title: Example commands
   completion:
   - engaged
-- title: Train and test a machine learning model
+- title: Train your assistant
 - title: Use the machine learning model in Scratch
 - title: How to use confidence scores
   completion:

@@ -1,8 +1,6 @@
-## Train and test a machine learning model
+## Train your assistant
 
-You will now train the program using the examples, and then test it.
-
-The program will learn from patterns in the examples you give it, such as the choice of words and the way sentences are structured. Then, based on the patterns the program finds, it can interpret new commands.
+Now that you have some example data, you can train your assistant to turn the fan on or off depending on your command.
 
 --- task ---
 + Click on the **< Back to project** link, then click on **Learn & Test**.
