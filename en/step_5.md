@@ -1,31 +1,49 @@
-## Train and test a machine learning model
+## Use the machine learning model in Scratch
 
-You will now train the program using the examples, and then test it.
-
-The program will learn from patterns in the examples you give it, such as the choice of words and the way sentences are structured. Then, based on the patterns the program finds, it can interpret new commands.
+Now update your Scratch program to include your machine learning model instead of a rules-based approach.
 
 --- task ---
-+ Click on the **< Back to project** link, then click on **Learn & Test**.
++ Click on the **< Back to project** link.
 
-+ Click on the **Train new machine learning model** button. If you have enough examples, the program should start to learn how to recognise commands from these examples.
++ Click on **Make**.
 
-![Annotation pointing to train new machine learning model button](images/train-new-model-annotated.png)
++ Click on **Scratch 3**.
+
++ Read the instructions on the page to learn how to use machine learning blocks in Scratch.
+
++ Click on **Open in Scratch 3**.
+
+![annotation pointing at Open in scratch 3 button](images/open-scratch-3-annotated.png)
+
++ Click on **File** and then on **Load from your computer**, and select the Scratch project you saved earlier.
+
++ When Scratch asks you whether to replace the current project, click on **OK**.
+
 --- /task ---
-
-Wait for the training to complete. This might take a minute or two. While you wait, complete the machine-learning multi-choice quiz at the bottom of the page.
 
 --- task ---
-Once the training has completed, a test box appears. Test your machine learning model to see what it has learned.
 
-+ Type in one of the commands you added to a bucket, and then press <kbd>Enter</kbd>. The command should be recognised.
++ Click on the **Code** tab, and update your Scratch code to use your machine learning model **instead** of the rules you first added.
 
-+ Type in **commands that are not in the buckets**.
+The `recognise text … (label)` block is a new block added by your project. This new block can receive a message and return one of the four labels, based on the machine learning model you have trained.
 
-If you’re not happy with how the computer recognises the commands, go back to the previous step and add some more examples. Then **train new machine learning model** again.
-
-![Annotation pointing to train new machine learning model button](images/test-new-model-annotated.png)
+![New scratch code including new machine learning blocks](images/code-new-blocks.png)
 --- /task ---
 
-Instead of writing rules for the program, you are giving the program examples. The program uses the examples to train a machine learning **model**.
+--- task ---
++ Click the **green flag** to test again.
 
-Because you are supervising the program's training by giving examples, this machine learning approach is called **supervised learning**.
+![Testing new code from previous instruction](images/test-with-new-blocks-annotated.png)
+
++ Test your project: type a command and press <kbd>Enter</kbd> on your keyboard. The fan or lamp should react to your command.
+
+Make sure you test that this works **even for commands that you didn’t include as examples in the buckets.**
+
++ Save your project: click on **File** and then on **Save to your computer**.
+--- /task ---
+
+Now your Scratch smart virtual classroom uses a machine learning model instead of a rules-based approach.
+
+Using machine learning is better than using rules, because training a program to recognise commands for itself is much quicker than trying to make a list of every possible command.
+
+The more examples you use to train the machine learning model, the better your program should get at recognising commands.

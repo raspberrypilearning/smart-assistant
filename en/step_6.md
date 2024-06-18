@@ -1,49 +1,38 @@
-## Use the machine learning model in Scratch
+## How to use confidence scores
 
-Now update your Scratch program to include your machine learning model instead of a rules-based approach.
+Finally, you will learn about what confidence scores mean and how you should use them.
 
 --- task ---
-+ Click on the **< Back to project** link.
++ Leave Scratch open, because you will come back in a moment. 
 
-+ Click on **Make**.
++ Go back to the **Learn & Test** page in the Training tool.
 
-+ Click on **Scratch 3**.
++ Type something that has nothing to do with lamps or fans into the test box. For example, you could type in 'make me a cheese sandwich'.
+![Result of entering "make me a cheese sandwich" is lamp off with 21% confidence](images/cheese-sandwich-annotated.png)
 
-+ Read the instructions on the page to learn how to use machine learning blocks in Scratch.
++ Look at the confidence score, which should be very low.
 
-+ Click on **Open in Scratch 3**.
++ Compare this with the confidence score you get for a command such as “turn on the lamp”.
 
-![annotation pointing at Open in scratch 3 button](images/open-scratch-3-annotated.png)
-
-+ Click on **File** and then on **Load from your computer**, and select the Scratch project you saved earlier.
-
-+ When Scratch asks you whether to replace the current project, click on **OK**.
+**The confidence score is the program’s way of telling you how certain it is that it understands a command.** If a command is very similar to the examples you have trained the program with, the confidence score is high. If a command is **not** similar, the confidence score is low.
 
 --- /task ---
 
 --- task ---
 
-+ Click on the **Code** tab, and update your Scratch code to use your machine learning model **instead** of the rules you first added.
++ Go back to your classroom assistant project in Scratch.
 
-The `recognise text … (label)` block is a new block added by your project. This new block can receive a message and return one of the four labels, based on the machine learning model you have trained.
++ Modify the script for the 'classroom' sprite so that it uses the confidence score:
 
-![New scratch code including new machine learning blocks](images/code-new-blocks.png)
+![New code to be added into scratch program](images/code-with-confidence.png)
+
++ Click the green flag and test your program to check that your classroom assistant reacts in the right way:
+    + Type in commands that have nothing to do with the fan or lamp
+    + Ask for something to be turned on or off
+
+Now, if your program is not sure what you mean, it tells you so. Then you can try giving it another command.
 --- /task ---
 
---- task ---
-+ Click the **green flag** to test again.
+You’ve used machine learning to train a smart assistant that is a simple version of the assistants you can get on smartphones (e.g. Apple’s Siri or Google’s Assistant) or at home (e.g. Amazon’s Alexa or Google’s Home).
 
-![Testing new code from previous instruction](images/test-with-new-blocks-annotated.png)
-
-+ Test your project: type a command and press <kbd>Enter</kbd> on your keyboard. The fan or lamp should react to your command.
-
-Make sure you test that this works **even for commands that you didn’t include as examples in the buckets.**
-
-+ Save your project: click on **File** and then on **Save to your computer**.
---- /task ---
-
-Now your Scratch smart virtual classroom uses a machine learning model instead of a rules-based approach.
-
-Using machine learning is better than using rules, because training a program to recognise commands for itself is much quicker than trying to make a list of every possible command.
-
-The more examples you use to train the machine learning model, the better your program should get at recognising commands.
+Training the program to recognise commands is much easier than trying to make a list of every possible command. And the more examples you give the program, the better it gets at recognising commands, and the more its confidence scores increase. 

@@ -1,51 +1,31 @@
-## Collect examples for training
+## Train and test a machine learning model
+
+You will now train the program using the examples, and then test it.
+
+The program will learn from patterns in the examples you give it, such as the choice of words and the way sentences are structured. Then, based on the patterns the program finds, it can interpret new commands.
 
 --- task ---
-+ Close the Scratch window and go back to the Training tool.
++ Click on the **< Back to project** link, then click on **Learn & Test**.
 
-+ Click on the **< Back to project** link.
++ Click on the **Train new machine learning model** button. If you have enough examples, the program should start to learn how to recognise commands from these examples.
+
+![Annotation pointing to train new machine learning model button](images/train-new-model-annotated.png)
 --- /task ---
+
+Wait for the training to complete. This might take a minute or two. While you wait, complete the machine-learning multi-choice quiz at the bottom of the page.
 
 --- task ---
-+ Click on the **Train** button.
-![Project main menu](images/project-train-annotated.png)
+Once the training has completed, a test box appears. Test your machine learning model to see what it has learned.
 
-You need to collect some examples to train the computer. To collect different examples, you need to create 'buckets' to put the examples in.
++ Type in one of the commands you added to a bucket, and then press <kbd>Enter</kbd>. The command should be recognised.
 
-+ To create a bucket, click on **+ Add new label** and call the bucket “fan on”. Click on **+ Add new label** again and create a second bucket called “fan off”. Create a third and a fourth bucket called “lamp on” and "lamp off".
-![4 empty classes named fan_on, fan_off, lamp_on and lamp_off](images/empty-buckets.png)
++ Type in **commands that are not in the buckets**.
 
-+ Click on the **Add example** button in the “fan on” bucket, and type in a command asking for the fan to be turned on. For example, you could type “Please can you switch on the fan”. 
+If you’re not happy with how the computer recognises the commands, go back to the previous step and add some more examples. Then **train new machine learning model** again.
 
-+ Click on the **Add example** button in the “fan off” bucket, and type in a command asking for the fan to be switched off. For example, you could type “I want the fan off now”.
-
-+ Do the same for the “lamp on” and “lamp off” buckets.
-
+![Annotation pointing to train new machine learning model button](images/test-new-model-annotated.png)
 --- /task ---
 
---- task ---
-+ Continue to **Add example**s until you have at least **six** examples in **each** bucket.
+Instead of writing rules for the program, you are giving the program examples. The program uses the examples to train a machine learning **model**.
 
-Be imaginative! Try and think of lots of different ways to ask each command. For example: 
-
-+ For “fan on”, you could complain that you’re too hot. 
-+ For “fan off”, you could complain that it’s too breezy. 
-+ For “lamp on”, you could complain that you can’t see. 
-+ For “lamp off”, you could complain that it’s too bright.
-
-![4 empty classes named fan_on, fan_off, lamp_on and lamp_off](images/full-buckets.png)
-
---- collapse ---
----
-title: Tips for selecting good examples
----
-+ **More is good**: the more examples you give your program, the better the program should get at recognising your commands. 
-
-+ **Equal numbers**: add roughly the same number of examples for each command. If you have a lot of examples for one command and not the others, this can affect the way that the program learns to recognise commands. 
-
-+ **Make the examples really different from each other**: try to come up with lots of different types of examples. For example, make sure that you include some long examples and some very short ones.
-
---- /collapse ---
---- /task ---
-
-In the next step you will train your program to recognise any new command automatically by comparing it to the examples in the four buckets.
+Because you are supervising the program's training by giving examples, this machine learning approach is called **supervised learning**.

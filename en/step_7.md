@@ -1,38 +1,37 @@
-## How to use confidence scores
+## Challenge: more items to control
 
-Finally, you will learn about what confidence scores mean and how you should use them.
-
+--- challenge ---
 --- task ---
-+ Leave Scratch open, because you will come back in a moment. 
 
-+ Go back to the **Learn & Test** page in the Training tool.
+**Add another item**
 
-+ Type something that has nothing to do with lamps or fans into the test box. For example, you could type in 'make me a cheese sandwich'.
-![Result of entering "make me a cheese sandwich" is lamp off with 21% confidence](images/cheese-sandwich-annotated.png)
-
-+ Look at the confidence score, which should be very low.
-
-+ Compare this with the confidence score you get for a command such as “turn on the lamp”.
-
-**The confidence score is the program’s way of telling you how certain it is that it understands a command.** If a command is very similar to the examples you have trained the program with, the confidence score is high. If a command is **not** similar, the confidence score is low.
++ In addition to a fan and a lamp, can you add another item and train your smart classroom assistant to understand your commands for controlling the item?
 
 --- /task ---
 
 --- task ---
 
-+ Go back to your classroom assistant project in Scratch.
+**Try our different confidence scores**
 
-+ Modify the script for the 'classroom' sprite so that it uses the confidence score:
++ Is 70% the correct confidence score for deciding whether the smart classroom assistant has recognised a command correctly? Experiment with different confidence scores until you have a value that works well for your machine learning model. 
 
-![New code to be added into scratch program](images/code-with-confidence.png)
+If you choose a number that is too high, the assistant will say “Sorry I’m not sure what you mean” too often. 
 
-+ Click the green flag and test your program to check that your classroom assistant reacts in the right way:
-    + Type in commands that have nothing to do with the fan or lamp
-    + Ask for something to be turned on or off
-
-Now, if your program is not sure what you mean, it tells you so. Then you can try giving it another command.
+If you choose a number that is too low, the assistant will get too many things wrong.
 --- /task ---
 
-You’ve used machine learning to train a smart assistant that is a simple version of the assistants you can get on smartphones (e.g. Apple’s Siri or Google’s Assistant) or at home (e.g. Amazon’s Alexa or Google’s Home).
+--- task ---
 
-Training the program to recognise commands is much easier than trying to make a list of every possible command. And the more examples you give the program, the better it gets at recognising commands, and the more its confidence scores increase. 
+**Real smart assistants**
+
+People have made [their own smart assistants based on Amazon’s Alexa](http://amzn.to/2sxy1hw){:target="_blank"}.
+ 
+People make these assistants the same way that you made yours:
+1. First, they create buckets for the types of commands they want their assistants to recognise
+1. Then they collect examples of how the commands might be phrased and trained the Alexa-based assistant to understand them
+ 
++ Find an Alexa Skill that you find interesting and look at the commands it can understand. How would you have trained this program?
+
+--- /task ---
+
+--- /challenge ---
