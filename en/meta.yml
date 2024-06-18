@@ -14,9 +14,9 @@ steps:
   - engaged
 - title: Train the model
 - title: Create the assistant
+- title: 'Challenge: control the light'
+  challenge: true
 - title: How to use confidence scores
   completion:
   - internal
-- title: 'Challenge: more items to control'
-  challenge: true
 - title: What next?
