@@ -1,6 +1,6 @@
-## Use the machine learning model in Scratch
+## Create the assistant
 
-Now update your Scratch program to include your machine learning model instead of a rules-based approach.
+Now that your model can distinguish between commands, you can use it in a Scratch program to create your virtual assistant.
 
 --- task ---
 + Click on the **< Back to project** link.
@@ -9,17 +9,19 @@ Now update your Scratch program to include your machine learning model instead o
 
 + Click on **Scratch 3**.
 
-+ Read the instructions on the page to learn how to use machine learning blocks in Scratch.
-
 + Click on **Open in Scratch 3**.
 
-![annotation pointing at Open in scratch 3 button](images/open-scratch-3-annotated.png)
-
-+ Click on **File** and then on **Load from your computer**, and select the Scratch project you saved earlier.
-
-+ When Scratch asks you whether to replace the current project, click on **OK**.
-
 --- /task ---
+
+--- task ---
++ Click on **Project templates** at the top and select the 'Smart classroom' project to load the fan and light sprites. 
+
+![Smart classroom project](images/smart-classroom.png)
+--- /task ---
+
+Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. 
+
+![Location of new blocks](images/ml-blocks.png)
 
 --- task ---
 

@@ -12,8 +12,8 @@ steps:
 - title: Example commands
   completion:
   - engaged
-- title: Train your assistant
-- title: Use the machine learning model in Scratch
+- title: Train the model
+- title: Create the assistant
 - title: How to use confidence scores
   completion:
   - internal

@@ -1,6 +1,6 @@
-## Train your assistant
+## Train the model
 
-Now that you have some example data, you can train your assistant to turn the fan on or off depending on your command.
+Now that you have some example data, you can train the machine learning model to label a command as either 'fan on' or 'fan off' based on your examples.
 
 --- task ---
 + Click on the **< Back to project** link, then click on **Learn & Test**.
