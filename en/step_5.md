@@ -21,31 +21,23 @@ Now that your model can distinguish between commands, you can use it in a Scratc
 
 Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. 
 
-![Location of new blocks](images/ml-blocks.png)
-
 --- task ---
 
-+ Click on the **Code** tab, and update your Scratch code to use your machine learning model **instead** of the rules you first added.
++ Click on the **Code** tab and add this code:
 
-The `recognise text … (label)` block is a new block added by your project. This new block can receive a message and return one of the four labels, based on the machine learning model you have trained.
-
-![New scratch code including new machine learning blocks](images/code-new-blocks.png)
+![New scratch code including new machine learning blocks](images/turn-fan-on.png)
 --- /task ---
 
 --- task ---
-+ Click the **green flag** to test again.
 
-![Testing new code from previous instruction](images/test-with-new-blocks-annotated.png)
++ Right click on the `if` block and select 'Duplicate' to add a copy of this block of code. Change the copy so that it recognises the text for turning the fan **off**, and broadcasts **fan off**.
 
-+ Test your project: type a command and press <kbd>Enter</kbd> on your keyboard. The fan or lamp should react to your command.
-
-Make sure you test that this works **even for commands that you didn’t include as examples in the buckets.**
-
-+ Save your project: click on **File** and then on **Save to your computer**.
+![New scratch code including new machine learning blocks](images/turn-fan-off.png)
 --- /task ---
 
-Now your Scratch smart virtual classroom uses a machine learning model instead of a rules-based approach.
+--- task ---
++ Click the **green flag** and type in a command to turn the fan on or off. Check that it has the result you expected. 
 
-Using machine learning is better than using rules, because training a program to recognise commands for itself is much quicker than trying to make a list of every possible command.
+Make sure you test that the assistant performs the correct action **even for commands that you didn’t include as examples.**
 
-The more examples you use to train the machine learning model, the better your program should get at recognising commands.
+--- /task ---
