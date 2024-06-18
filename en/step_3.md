@@ -1,51 +1,31 @@
-## Collect examples for training
+## Train your assistant
+
+The classroom has two devices: a fan and a light.
+
+![A fan and a light](images/classroom-devices.png)
+
+Your assistant needs some examples of the words you might say when you want each device to be turned on or off. For example, to **turn the fan on**, you might say:
+
++ "Turn on the fan"
++ "Turn the fan on"
++ "Please could you switch on the fan"
++ "I'm too hot"
++ "It's hot in here"
+
 
 --- task ---
-+ Close the Scratch window and go back to the Training tool.
-
-+ Click on the **< Back to project** link.
---- /task ---
-
---- task ---
-+ Click on the **Train** button.
-![Project main menu](images/project-train-annotated.png)
-
-You need to collect some examples to train the computer. To collect different examples, you need to create 'buckets' to put the examples in.
-
-+ To create a bucket, click on **+ Add new label** and call the bucket “fan on”. Click on **+ Add new label** again and create a second bucket called “fan off”. Create a third and a fourth bucket called “lamp on” and "lamp off".
-![4 empty classes named fan_on, fan_off, lamp_on and lamp_off](images/empty-buckets.png)
-
-+ Click on the **Add example** button in the “fan on” bucket, and type in a command asking for the fan to be turned on. For example, you could type “Please can you switch on the fan”. 
-
-+ Click on the **Add example** button in the “fan off” bucket, and type in a command asking for the fan to be switched off. For example, you could type “I want the fan off now”.
-
-+ Do the same for the “lamp on” and “lamp off” buckets.
++ Click on **+ Add new label** and type the label “fan on”. 
 
 --- /task ---
 
 --- task ---
-+ Continue to **Add example**s until you have at least **six** examples in **each** bucket.
-
-Be imaginative! Try and think of lots of different ways to ask each command. For example: 
-
-+ For “fan on”, you could complain that you’re too hot. 
-+ For “fan off”, you could complain that it’s too breezy. 
-+ For “lamp on”, you could complain that you can’t see. 
-+ For “lamp off”, you could complain that it’s too bright.
-
-![4 empty classes named fan_on, fan_off, lamp_on and lamp_off](images/full-buckets.png)
-
---- collapse ---
----
-title: Tips for selecting good examples
----
-+ **More is good**: the more examples you give your program, the better the program should get at recognising your commands. 
-
-+ **Equal numbers**: add roughly the same number of examples for each command. If you have a lot of examples for one command and not the others, this can affect the way that the program learns to recognise commands. 
-
-+ **Make the examples really different from each other**: try to come up with lots of different types of examples. For example, make sure that you include some long examples and some very short ones.
-
---- /collapse ---
++ Click on **Add example** and type in "turn on the fan".
 --- /task ---
 
-In the next step you will train your program to recognise any new command automatically by comparing it to the examples in the four buckets.
+--- task ---
++ Continue to click on the **Add example** button and add different ways of asking for the fan to be turned on until you have eight different ones.
+--- /task ---
+
+--- task ---
++ Now **Add new label** and this time create "fan off". Add eight examples of ways you could ask for the fan to be turned off.
+--- /task ---

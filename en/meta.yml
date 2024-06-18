@@ -9,7 +9,7 @@ last_tested: '2019-05-09'
 steps:
 - title: Introduction
 - title: Set up the project
-- title: Collect examples for training
+- title: Train your assistant
   completion:
   - engaged
 - title: Train and test a machine learning model
