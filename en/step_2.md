@@ -13,10 +13,10 @@
 
 + Click on the **+ Add a new project** button.
 
-+ Name your project 'smart classroom' and set it to learn to recognise **text**.  Then click on **Create**.
++ Name your project 'Smart classroom' and set it to learn to recognise **text**.  Then click on **Create**.
 ![Creating a project](images/create-project-annotated.png)
 
-+ You should now see 'smart classroom' in the projects list. Click on this project.
++ You should now see 'Smart classroom' in the projects list. Click on this project.
 ![Project list with smart classroom listed](images/projects-list-annotated.png)
 --- /task ---
 
