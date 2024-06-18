@@ -23,7 +23,7 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 
 --- task ---
 
-+ Click on the **Code** tab and add this code:
++ Make sure you have the **Classroom** sprite selected, then click on the **Code** tab and add this code:
 
 ![New scratch code including new machine learning blocks](images/turn-fan-on.png)
 --- /task ---
@@ -32,7 +32,7 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 
 + Right click on the `if` block and select 'Duplicate' to add a copy of the whole block of code, and put it directly underneath the first `if`. 
 
-+ Change the second copy so that it recognises the text for turning the fan **off**, and broadcasts **fan off**.
++ Change the second copy so that it recognises the text for turning the fan **off**, and broadcasts **turn-fan-off**.
 
 ![New scratch code including new machine learning blocks](images/turn-fan-off.png)
 --- /task ---
