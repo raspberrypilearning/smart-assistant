@@ -2,7 +2,7 @@
 
 --- challenge ---
 
-### Control the light
+Follow the same steps as before to allow the assistant to also control the light.
 
 --- task ---
 
@@ -24,7 +24,7 @@
 
 --- task ---
 
-+ Return to Scratch and add more code blocks to your program so that you are able to type commands that control the light.
++ Return to Scratch and add more code blocks to your program so that you can type commands to control the light.
 
 --- /task ---
 

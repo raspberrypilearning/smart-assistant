@@ -30,12 +30,16 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 
 --- task ---
 
-+ Right click on the `if` block and select 'Duplicate' to add a copy of this block of code underneath the first `if`. Change the second copy so that it recognises the text for turning the fan **off**, and broadcasts **fan off**.
++ Right click on the `if` block and select 'Duplicate' to add a copy of the whole block of code, and put it directly underneath the first `if`. 
+
++ Change the second copy so that it recognises the text for turning the fan **off**, and broadcasts **fan off**.
 
 ![New scratch code including new machine learning blocks](images/turn-fan-off.png)
 --- /task ---
 
 --- task ---
-+ Click the **green flag** and type in a command to turn the fan on or off. Check that it has the result you expected. Make sure you test that the assistant performs the correct action **even for commands that you didn’t include as examples.**
++ Click the **green flag** and type in a command to turn the fan on or off. Check that it has the result you expected. 
+
++ Make sure you test that the assistant performs the correct action **even for commands that you didn’t include as examples.**
 
 --- /task ---
