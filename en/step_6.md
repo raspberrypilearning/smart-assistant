@@ -26,7 +26,7 @@ Follow the same steps as before to allow the assistant to also control the light
 
 --- task ---
 
-+ Re-train your model (**Back to project** > **Learn and Test**)so that it can also recognise commands for turning the light on and off.
++ Re-train your model (**Back to project** > **Learn and Test**) so that it can also recognise commands for turning the light on and off.
 
 --- /task ---
 
@@ -38,6 +38,17 @@ Follow the same steps as before to allow the assistant to also control the light
 
 + Add two more `if` blocks to your program so that you can type commands to control the light.
 
+--- collapse ---
+---
+title: I can't see the blocks for light_on / light_off
+---
+
+If you have trained a new model, you will need to close Scratch and then re-open it from the Machine Learning for Kids website for any new blocks to appear.
+
+Click **Make** > **Scratch 3** > **Open in Scratch 3**
+
+--- /collapse ---
+
 --- /task ---
 
 --- task ---
@@ -45,17 +56,5 @@ Follow the same steps as before to allow the assistant to also control the light
 + Test whether your program works.
 
 --- /task ---
-
-
---- collapse ---
----
-title: I can't see the new blocks in Scratch
----
-
-If you have trained a new model, you will need to close Scratch and then re-open it from the Machine Learning for Kids website for the blocks to appear.
-
-Click **Make** > **Scratch 3** > **Open in Scratch 3**
-
---- /collapse ---
 
 --- /challenge ---
