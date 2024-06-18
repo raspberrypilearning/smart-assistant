@@ -4,26 +4,25 @@ Now that you have some example data, you can train your assistant to turn the fa
 
 --- task ---
 + Click on the **< Back to project** link, then click on **Learn & Test**.
-
-+ Click on the **Train new machine learning model** button. If you have enough examples, the program should start to learn how to recognise commands from these examples.
-
-![Annotation pointing to train new machine learning model button](images/train-new-model-annotated.png)
 --- /task ---
 
-Wait for the training to complete. This might take a minute or two. While you wait, complete the machine-learning multi-choice quiz at the bottom of the page.
+--- task ---
++ Click on the **Train new machine learning model** button. 
+--- /task ---
+
+Wait for the training to complete - this might take a minute or two. Once the training has completed, a test box appears. 
 
 --- task ---
-Once the training has completed, a test box appears. Test your machine learning model to see what it has learned.
++ Type in "put the fan on" and check that the model labels this input as 'fan on'
+![Type in put the fan on to see if it is recognised](images/test-model.png)
 
-+ Type in one of the commands you added to a bucket, and then press <kbd>Enter</kbd>. The command should be recognised.
+--- /task ---
 
-+ Type in **commands that are not in the buckets**.
+--- task ---
++ Try typing in some other commands for turning the fan on and off, and check that they are given the label you expect. 
+
+--- /task ---
 
 If you’re not happy with how the computer recognises the commands, go back to the previous step and add some more examples. Then **train new machine learning model** again.
 
-![Annotation pointing to train new machine learning model button](images/test-new-model-annotated.png)
---- /task ---
 
-Instead of writing rules for the program, you are giving the program examples. The program uses the examples to train a machine learning **model**.
-
-Because you are supervising the program's training by giving examples, this machine learning approach is called **supervised learning**.
