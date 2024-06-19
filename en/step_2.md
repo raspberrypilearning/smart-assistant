@@ -13,11 +13,11 @@
 
 + Click on the **+ Add a new project** button.
 
-+ Name your project 'Smart classroom' and set it to learn to recognise **text**, and store data **in your web browser**.  Then click on **Create**.
++ Name your project 'Smart assistant' and set it to learn to recognise **text**, and store data **in your web browser**.  Then click on **Create**.
 ![Creating a project](images/create-project-annotated.png)
 
-+ You should now see 'Smart classroom' in the projects list. Click on the project.
-![Project list with smart classroom listed](images/projects-list-annotated.png)
++ You should now see 'Smart assistant' in the projects list. Click on the project.
+![Project list with smart assistant listed](images/projects-list-annotated.png)
 --- /task ---
 
 --- task ---

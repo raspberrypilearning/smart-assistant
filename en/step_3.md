@@ -1,6 +1,6 @@
 ## Example commands
 
-The classroom has two devices: a fan and a light.
+The room has two devices: a fan and a light.
 
 ![A fan and a light](images/classroom-devices.png)
 
