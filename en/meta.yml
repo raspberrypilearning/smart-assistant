@@ -14,7 +14,7 @@ steps:
   - engaged
 - title: Train the model
 - title: Create the assistant
-- title: 'Challenge: control the light'
+- title: 'Challenge'
   challenge: true
 - title: Confidence scores
   completion:

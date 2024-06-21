@@ -1,4 +1,4 @@
-## Challenge: control the light
+## Challenge
 
 --- challenge ---
 
@@ -20,7 +20,13 @@ Follow the same steps as before to allow the assistant to also control the light
 
 --- task ---
 
-+ Add eight examples of commands you might use to turn the light on and eight to turn the light off.
++ Add eight examples of commands you might use to turn the light on.
+
+--- /task ---
+
+--- task ---
+
++ Add eight examples of commands you might use to turn the light off.
 
 --- /task ---
 
@@ -53,7 +59,7 @@ Click **Make** > **Scratch 3** > **Open in Scratch 3**
 
 --- task ---
 
-+ Test whether your program works.
++ Test whether your program works by typing in commands to turn the light on and off, and checking whether the outcome is as you expected.
 
 --- /task ---
 

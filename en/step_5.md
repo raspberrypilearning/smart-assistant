@@ -14,7 +14,7 @@ Now that your model can distinguish between commands, you can use it in a Scratc
 --- /task ---
 
 --- task ---
-+ Click on **Project templates** at the top and select the 'Smart classroom' project to load the fan and light sprites. 
++ Click on **Project templates** at the top and select the 'Smart classroom' project to load the fan and light sprites. This project also contains pre-made yellow `broadcast` blocks which can be found under **Events**.
 
 ![Smart classroom project](images/smart-classroom.png)
 --- /task ---
