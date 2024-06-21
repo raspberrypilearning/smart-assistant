@@ -19,7 +19,9 @@ Now that your model can distinguish between commands, you can use it in a Scratc
 ![Smart classroom project](images/smart-classroom.png)
 --- /task ---
 
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. 
+Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
+
+![New blocks](images/new-blocks-menu.png)
 
 --- task ---
 

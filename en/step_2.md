@@ -14,13 +14,13 @@
 + Click on the **+ Add a new project** button.
 
 + Name your project 'Smart assistant' and set it to learn to recognise **text**, and store data **in your web browser**.  Then click on **Create**.
-![Creating a project](images/create-project-annotated.png)
+![Creating a project](images/create-project.png)
 
 + You should now see 'Smart assistant' in the projects list. Click on the project.
-![Project list with smart assistant listed](images/projects-list-annotated.png)
+![Project list with smart assistant listed](images/projects-list.png)
 --- /task ---
 
 --- task ---
 + Click on the **Train** button.
-![Project main menu](images/project-train-annotated.png)
+![Project main menu](images/project-train.png)
 --- /task ---

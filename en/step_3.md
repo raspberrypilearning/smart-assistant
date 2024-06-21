@@ -14,7 +14,7 @@ Your assistant needs some examples of the phrases you might say when you want ea
 
 
 --- task ---
-+ Click on **+ Add new label** and add the label “fan on”. 
++ Click on **+ Add new label** on the top right and add the label “fan on”. 
 
 --- /task ---
 
