@@ -1,4 +1,4 @@
-## Introduction
+## What you will make
 
 Create a smart virtual assistant that reacts to your commands.
 
