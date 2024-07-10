@@ -19,7 +19,7 @@ Your assistant needs some examples of the phrases you might say when you want ea
 --- /task ---
 
 --- task ---
-+ Click on **Add example** and type in "Turn on the fan".
++ Click on **Add example** and type in `Turn on the fan`.
 --- /task ---
 
 --- task ---
