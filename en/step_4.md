@@ -10,10 +10,10 @@ Now that you have some example data, you can train the machine learning model to
 + Click on the **Train new machine learning model** button. 
 --- /task ---
 
-Wait for the training to complete - this might take a minute or two. Once the training has completed, a test box appears. 
+Wait for the training to complete — this might take a minute or two. Once the training has completed, a test box appears. 
 
 --- task ---
-+ Type in "put the fan on" and check that the model labels this input as 'fan on'
++ Type in `put the fan on` and check that the model labels this input as 'fan on'.
 ![Type in put the fan on to see if it is recognised](images/test-model.png)
 
 --- /task ---
