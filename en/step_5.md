@@ -14,7 +14,7 @@ Now that your model can distinguish between commands, you can use it in a Scratc
 --- /task ---
 
 --- task ---
-+ Click on **Project templates** at the top and select the 'Smart classroom' project to load the fan and light sprites. This project also contains pre-made yellow `broadcast` blocks which can be found under **Events**.
++ Click on **Project templates** at the top and select the 'Smart classroom' project to load the fan and light sprites. This project also contains pre-made yellow `broadcast` blocks, which can be found under **Events**.
 
 ![Smart classroom project](images/smart-classroom.png)
 --- /task ---
@@ -32,9 +32,9 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 
 --- task ---
 
-+ Right click on the `if` block and select 'Duplicate' to add a copy of the whole block of code, and put it directly underneath the first `if`. 
++ Right click on the `if` block and select **Duplicate** to add a copy of the whole block of code, and put it directly underneath the first `if`. 
 
-+ Change the second copy so that it recognises the text for turning the fan **off**, and broadcasts **turn-fan-off**.
++ Change the second copy of the block so that it recognises the text for turning the fan **off**, and broadcasts **turn-fan-off**.
 
 ![New scratch code including new machine learning blocks](images/turn-fan-off.png)
 --- /task ---
@@ -42,6 +42,6 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 --- task ---
 + Click the **green flag** and type in a command to turn the fan on or off. Check that it has the result you expected. 
 
-+ Make sure you test that the assistant performs the correct action **even for commands that you didn’t include as examples.**
++ Make sure you test that the assistant performs the correct action **even for commands that you didn’t include as examples**.
 
 --- /task ---
