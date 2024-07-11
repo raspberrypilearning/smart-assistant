@@ -10,7 +10,7 @@ The model can tell you how **confident** it is about whether it is correct.
 ![Result of entering "play some music" is fan on with 36% confidence](images/play-music.png)
 --- /task ---
 
-The **confidence score** is the program’s way of telling you how certain it is that it has correctly labelled a command. 
+The **confidence score** is the program’s way of telling you how likely it is that it has labelled the command correctly. 
 
 --- task ---
 
@@ -23,7 +23,7 @@ The **confidence score** is the program’s way of telling you how certain it is
 --- /task ---
 
 --- task ---
-+ Click the green flag and test your program to check that your  assistant reacts in the right way:
++ Click the **green flag** and test your program to check that your  assistant reacts in the right way:
     + Type in commands that have nothing to do with the fan or lamp
     + Ask for something to be turned on or off
 --- /task ---
