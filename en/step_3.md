@@ -30,4 +30,4 @@ Your assistant needs some examples of the phrases you might say when you want ea
 + Click on **Add new label**, but this time create the label "fan off". Add eight different examples of ways you could ask for the fan to be turned off.
 --- /task ---
 
-![Fan on and off examples](images/fan-on-and-off.png)
+![Fan on and off categories with eight examples of commands in each](images/fan-on-and-off.png)

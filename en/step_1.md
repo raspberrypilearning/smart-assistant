@@ -2,12 +2,6 @@
 
 Create a smart virtual assistant that reacts to your commands.
 
---- print-only ---
-
-![Complete project](images/what-you-will-make.png)
-
---- /print-only ---
-
 --- no-print ---
 
 ![Complete project GIF](images/smart-classroom.gif)

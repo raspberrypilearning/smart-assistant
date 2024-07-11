@@ -18,7 +18,7 @@ The **confidence score** is the program’s way of telling you how likely it is 
 
 + Add some new code so that the assistant will tell you it didn't understand the command if the confidence score is less than 70%.
 
-![New code to be added into scratch program](images/code-with-confidence.png)
+![New Scratch code: If recognise text (answer) confidence < 70, say 'Sorry I didn't understand that' for 2 seconds](images/code-with-confidence.png)
 
 --- /task ---
 

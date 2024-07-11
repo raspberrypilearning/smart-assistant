@@ -16,18 +16,18 @@ Now that your model can distinguish between commands, you can use it in a Scratc
 --- task ---
 + Click on **Project templates** at the top and select the 'Smart classroom' project to load the fan and light sprites. This project also contains pre-made yellow `broadcast` blocks, which can be found under **Events**.
 
-![Smart classroom project](images/smart-classroom.png)
+![Smart classroom project is selected in the Scratch templates](images/smart-classroom.png)
 --- /task ---
 
 Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
 
-![New blocks](images/new-blocks-menu.png)
+![New 'smart assistant' blocks shown in the menu underneath Images](images/new-blocks-menu.png)
 
 --- task ---
 
 + Make sure you have the **Classroom** sprite selected, then click on the **Code** tab and add this code:
 
-![New scratch code including new machine learning blocks](images/turn-fan-on.png)
+![New scratch code: when flag clicked, forever, ask 'enter your command' and wait. If recognise text (answer) label = fan on, then broadcast turn-fan-on ](images/turn-fan-on.png)
 --- /task ---
 
 --- task ---
@@ -36,7 +36,7 @@ Machine Learning for Kids has added some special blocks to Scratch to allow you 
 
 + Change the second copy of the block so that it recognises the text for turning the fan **off**, and broadcasts **turn-fan-off**.
 
-![New scratch code including new machine learning blocks](images/turn-fan-off.png)
+![New scratch code: If recognise text (answer) label = fan off, then broadcast turn-fan-off](images/turn-fan-off.png)
 --- /task ---
 
 --- task ---
