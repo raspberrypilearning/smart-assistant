@@ -5,8 +5,6 @@
   </div>
 </html>
 
-5j9g5LQaMXM
-
 The model can tell you how **confident** it is about whether it is correct.
 
 --- task ---
