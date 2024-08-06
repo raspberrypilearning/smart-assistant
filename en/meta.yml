@@ -19,4 +19,6 @@ steps:
 - title: Confidence scores
   completion:
   - internal
-- title: What next?
+- title: What can you do now?
+  completion:
+  - external
