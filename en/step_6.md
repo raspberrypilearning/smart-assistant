@@ -1,49 +1,66 @@
-## Use the machine learning model in Scratch
+## Challenge
 
-Now update your Scratch program to include your machine learning model instead of a rules-based approach.
+--- challenge ---
+
+Follow the same steps as before to allow the assistant to also control the light.
 
 --- task ---
-+ Click on the **< Back to project** link.
 
-+ Click on **Make**.
++ Save a copy of your Scratch project to your computer so that you can easily reload it later to use with your new model.
 
-+ Click on **Scratch 3**.
-
-+ Read the instructions on the page to learn how to use machine learning blocks in Scratch.
-
-+ Click on **Open in Scratch 3**.
-
-![annotation pointing at Open in scratch 3 button](images/open-scratch-3-annotated.png)
-
-+ Click on **File** and then on **Load from your computer**, and select the Scratch project you saved earlier.
-
-+ When Scratch asks you whether to replace the current project, click on **OK**.
+![Click on File and then Save to computer](images/save-to-computer.png)
 
 --- /task ---
 
 --- task ---
 
-+ Click on the **Code** tab, and update your Scratch code to use your machine learning model **instead** of the rules you first added.
++ Go back to your model (**Back to project** > **Train**) and add two more labels: `light_on` and `light_off`.
 
-The `recognise text … (label)` block is a new block added by your project. This new block can receive a message and return one of the four labels, based on the machine learning model you have trained.
-
-![New scratch code including new machine learning blocks](images/code-new-blocks.png)
 --- /task ---
 
 --- task ---
-+ Click the **green flag** to test again.
 
-![Testing new code from previous instruction](images/test-with-new-blocks-annotated.png)
++ Add eight examples of commands you might use to turn the light on.
 
-+ Test your project: type a command and press <kbd>Enter</kbd> on your keyboard. The fan or lamp should react to your command.
-
-Make sure you test that this works **even for commands that you didn’t include as examples in the buckets.**
-
-+ Save your project: click on **File** and then on **Save to your computer**.
 --- /task ---
 
-Now your Scratch smart virtual classroom uses a machine learning model instead of a rules-based approach.
+--- task ---
 
-Using machine learning is better than using rules, because training a program to recognise commands for itself is much quicker than trying to make a list of every possible command.
++ Add eight examples of commands you might use to turn the light off.
 
-The more examples you use to train the machine learning model, the better your program should get at recognising commands.
+--- /task ---
+
+--- task ---
+
++ Re-train your model (**Back to project** > **Learn and Test**) so that it can also recognise commands for turning the light on and off.
+
+--- /task ---
+
+--- task ---
+
++ Load your new model into Scratch (**Make** > **Scratch 3** > **Open in Scratch 3**).
+
++ In Scratch, reload the code you saved earlier (**File** > **Load from my computer**).
+
++ Add two more `if` blocks to your program so that you can type commands to control the light.
+
+--- collapse ---
+---
+title: I can't see the blocks for light_on / light_off
+---
+
+If you have trained a new model, you will need to close Scratch and then re-open it from the Machine Learning for Kids website for any new blocks to appear.
+
+Click **Make** > **Scratch 3** > **Open in Scratch 3**.
+
+--- /collapse ---
+
+--- /task ---
+
+--- task ---
+
++ Test whether your program works by typing in commands to turn the light on and off, and checking whether the outcome is as you expected.
+
+--- /task ---
+
+--- /challenge ---

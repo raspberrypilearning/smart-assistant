@@ -1,9 +1,18 @@
-## How to create a project
+## Set up the project
+
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/-y9N-VXW4iE?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
+
+
+
 
 --- task ---
 + Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser. 
 
-+ Click on **Get Started**
++ Click on **Get started**.
 
 + Click on **Try it now**.
 --- /task ---
@@ -13,28 +22,14 @@
 
 + Click on the **+ Add a new project** button.
 
-+ Name your project 'smart classroom' and set it to learn to recognise **text**.  Then click on **Create**.
-![Creating a project](images/create-project-annotated.png)
++ Name your project `Smart assistant` and set it to learn to recognise **text**, and store data **in your web browser**. Then click on **Create**.
+![Creating a project](images/create-project.png)
 
-+ You should now see 'smart classroom' in the projects list. Click on this project.
-![Project list with smart classroom listed](images/projects-list-annotated.png)
++ You should now see 'Smart assistant' in the projects list. Click on the project.
+![Project list with smart assistant listed](images/projects-list.png)
 --- /task ---
 
 --- task ---
-
-Now get a project ready in Scratch. 
-
-+ Click on **Make**.
-![Project main menu](images/project-make-annotated.png)
-
-+ Click on **Scratch 3**.
-
-+ Click on **Scratch by itself**. The page then warns you that you haven’t done any machine learning yet. Click on **Scratch by itself** to launch Scratch.
-
-+ Click on **Project templates**.
-![Scratch menu bar](images/project-templates-annotated.png)
-
-+ Click on the **Smart Classroom** template.
-
-![Scratch template project](images/scratch-template.png)
++ Click on the **Train** button.
+![Project main menu with arrow pointing to Train button](images/project-train.png)
 --- /task ---

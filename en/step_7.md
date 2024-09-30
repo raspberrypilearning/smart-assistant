@@ -1,38 +1,34 @@
-## How to use confidence scores
+## Confidence scores
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/ZvRBzkMUDlM?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
-Finally, you will learn about what confidence scores mean and how you should use them.
+The model can tell you how **confident** it is about whether it is correct.
 
 --- task ---
-+ Leave Scratch open, because you will come back in a moment. 
 
-+ Go back to the **Learn & Test** page in the Training tool.
++ Go back to the **Learn & Test** page in the training tool.
 
-+ Type something that has nothing to do with lamps or fans into the test box. For example, you could type in 'make me a cheese sandwich'.
-![Result of entering "make me a cheese sandwich" is lamp off with 21% confidence](images/cheese-sandwich-annotated.png)
++ Type something that has nothing to do with lamps or fans into the test box. For example, you could type in 'play some music'.
+![Result of entering "play some music" is fan on with 36% confidence](images/play-music.png)
+--- /task ---
 
-+ Look at the confidence score, which should be very low.
+The **confidence score** is the program’s way of telling you how likely it is that it has labelled the command correctly. 
 
-+ Compare this with the confidence score you get for a command such as “turn on the lamp”.
+--- task ---
 
-**The confidence score is the program’s way of telling you how certain it is that it understands a command.** If a command is very similar to the examples you have trained the program with, the confidence score is high. If a command is **not** similar, the confidence score is low.
++ Return to Scratch.
+
++ Add some new code so that the assistant will tell you it didn't understand the command if the confidence score is less than 70%.
+
+![New Scratch code: If recognise text (answer) confidence < 70, say 'Sorry I didn't understand that' for 2 seconds](images/code-with-confidence.png)
 
 --- /task ---
 
 --- task ---
-
-+ Go back to your classroom assistant project in Scratch.
-
-+ Modify the script for the 'classroom' sprite so that it uses the confidence score:
-
-![New code to be added into scratch program](images/code-with-confidence.png)
-
-+ Click the green flag and test your program to check that your classroom assistant reacts in the right way:
++ Click the **green flag** and test your program to check that your  assistant reacts in the right way:
     + Type in commands that have nothing to do with the fan or lamp
     + Ask for something to be turned on or off
-
-Now, if your program is not sure what you mean, it tells you so. Then you can try giving it another command.
 --- /task ---
-
-You’ve used machine learning to train a smart assistant that is a simple version of the assistants you can get on smartphones (e.g. Apple’s Siri or Google’s Assistant) or at home (e.g. Amazon’s Alexa or Google’s Home).
-
-Training the program to recognise commands is much easier than trying to make a list of every possible command. And the more examples you give the program, the better it gets at recognising commands, and the more its confidence scores increase. 

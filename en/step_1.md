@@ -1,56 +1,36 @@
-## Introduction
+## What you will make
 
-In this project you will use [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk){:target="_blank"} to make a smart virtual classroom assistant that reacts to what you say to it. You’ll be able to control the virtual devices in the classroom by typing in commands!
+Create a smart virtual assistant that reacts to your commands.
 
-First, you’ll create an assistant that uses a list of rules for understanding commands, and you'll learn why that approach isn’t very good.
+![A Scratch project with a fan and a light and a box to type in](images/whatyouwillmake.gif)
 
-Next, you will teach the assistant to recognise commands for different devices by training it using examples of each command.
+--- collapse ---
 
-### What you will make
+---
+title: Where are my commands stored?
+---
 
---- print-only ---
-
-![Complete project](images/what-you-will-make.png)
-
---- /print-only ---
-
---- no-print ---
-
-![Complete project GIF](images/smart-classroom.gif)
-
---- /no-print ---
+- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data. 
+- Our projects do not require you to create an account or log in. For our projects, the commands you use to make the model are only stored temporarily in your browser (only on your machine).
+--- /collapse ---
 
 --- collapse ---
 ---
-title: What you will learn
+title: No YouTube? Download the videos!
 ---
 
-+ How to train and test a machine learning model
-+ Why this approach is better than using a long list of rules
-+ How confidence scores can improve the user experience
+You can download all the videos for this project, including the above video [by clicking here](https://rpf.io/p/en/smart-assistant-go){:target="_blank"}. 
+
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: What you will need
+title: License
 ---
-
-+ A computer connected to the internet
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/smart-classroom/print){:target="_blank"}.
-
---- /collapse ---
-
-### Licence
 
 This project is dual-licensed under both a [Creative Commons Attribution Non-Commercial Share-Alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} and an [Apache License Version 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
 
 We'd like to thank Dale from machinelearningforkids.co.uk for all his work on this project.
+
+--- /collapse ---
