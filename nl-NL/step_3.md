@@ -26,17 +26,20 @@ Your assistant needs some examples of the phrases you might say when you want ea
 
 \--- task ---
 
-- Klik op **Bestand** en vervolgens op **Opslaan op je computer** en sla het programma op in een bestand.
-  \--- /task ---
+- Click on **Add example** and type in `Turn on the fan`.
+
+\--- /task ---
 
 \--- task ---
 
 - Continue to click on the **Add example** button and add different ways of asking for the fan to be turned on until you have eight different ways of asking.
-  \--- /task ---
+
+\--- /task ---
 
 \--- task ---
 
 - Click on **Add new label**, but this time create the label "fan off". Add eight different examples of ways you could ask for the fan to be turned off.
-  \--- /task ---
+
+\--- /task ---
 
 ![Fan on and off categories with eight examples of commands in each](images/fan-on-and-off.png)
