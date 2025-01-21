@@ -1,0 +1,26 @@
+1
+00:00:04,040 --> 00:00:09,880
+Go to rpf.io/ML4K and get started.
+
+2
+00:00:09,880 --> 00:00:12,640
+Click 'Try it now'.
+
+3
+00:00:12,640 --> 00:00:16,960
+Add a new project called 'Smart assistant'.
+
+4
+00:00:16,960 --> 00:00:23,240
+Set it to recognise English text, and 
+store the data in your web browser.
+
+5
+00:00:23,240 --> 00:00:29,000
+Create the project, then 
+click on the project's name.
+
+6
+00:00:29,000 --> 00:00:29,960
+Now, click 'Train'.
+
