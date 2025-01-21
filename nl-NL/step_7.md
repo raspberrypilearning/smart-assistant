@@ -1,36 +1,34 @@
-## Hoe betrouwbaarheidsscores te gebruiken
+## Confidence scores
 
-Ten slotte leer je wat betrouwbaarheidsscores betekenen en hoe je ze moet gebruiken.
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/ZvRBzkMUDlM?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
-\--- task \---
-+ Laat Scratch open, want je komt zo terug.
+The model can tell you how **confident** it is about whether it is correct.
 
-+ Ga terug naar de pagina **Leer & Test** in de trainingstool.
+\--- task ---
 
-+ Typ iets dat niets te maken heeft met lampen of ventilatoren in de testbox. Je kunt bijvoorbeeld typen 'geef me een boterham met kaas'. ![Resultaat van het invoeren van "geef me een boterham met kaas" is lamp aan met 3% vertrouwen](images/cheese-sandwich-annotated.png)
+- Ga terug naar de pagina **Leer & Test** in de trainingstool.
 
-+ Kijk naar de betrouwbaarheidsscore, die erg laag zou moeten zijn.
+- Typ iets dat niets te maken heeft met lampen of ventilatoren in de testbox. Je kunt bijvoorbeeld typen 'geef me een boterham met kaas'.
+  ![Resultaat van het invoeren van "geef me een boterham met kaas" is lamp aan met 3% vertrouwen](images/cheese-sandwich-annotated.png)
 
-+ Vergelijk dit met de betrouwbaarheidsscore die je krijgt voor een commando zoals "doe de lamp aan".
+**De betrouwbaarheidsscore is de manier van het programma om je te vertellen hoe zeker het is dat het een opdracht begrijpt.** Als een opdracht erg lijkt op de voorbeelden waarmee je het programma hebt getraind, is de betrouwbaarheidsscore hoog.
 
-**De betrouwbaarheidsscore is de manier van het programma om je te vertellen hoe zeker het is dat het een opdracht begrijpt.** Als een opdracht erg lijkt op de voorbeelden waarmee je het programma hebt getraind, is de betrouwbaarheidsscore hoog. Als een opdracht **niet** vergelijkbaar is, is de betrouwbaarheidsscore laag.
+\--- task ---
 
-\--- /task \---
+- Laat Scratch open, want je komt zo terug.
 
-\--- task \---
+- Add some new code so that the assistant will tell you it didn't understand the command if the confidence score is less than 70%.
 
-+ Ga terug naar je klassenassistent-project in Scratch.
+![New Scratch code: If recognise text (answer) confidence < 70, say 'Sorry I didn't understand that' for 2 seconds](images/code-with-confidence.png)
 
-+ Wijzig het script voor de 'klas' sprite zodat deze de betrouwbaarheidsscore gebruikt:
+\--- /task ---
 
-![Nieuwe code die in het scratch-programma moet worden toegevoegd](images/code-with-confidence.png)
+\--- task ---
 
-+ Klik op de groene vlag en test je programma om te controleren of jouw klassenassistent op de juiste manier reageert:
-    + Typ opdrachten in die niets met de ventilator of lamp te maken hebben
-    + Vraag om iets aan of uit te zetten
-
-Als je programma niet zeker weet wat je bedoelt, zegt het je dat. Dan kun je proberen het een andere opdracht te geven. \--- /task \---
-
-Je hebt machine learning gebruikt om een slimme assistent te trainen, een eenvoudige versie van de assistenten die je op smartphones kunt krijgen (bijvoorbeeld Apple's Siri of Google's Assistent) of thuis (bijvoorbeeld Amazon's Alexa of Google's Home).
-
-Het programma trainen om opdrachten te herkennen is veel eenvoudiger dan proberen een lijst te maken van alle mogelijke opdrachten. En hoe meer voorbeelden je het programma geeft, hoe beter het wordt in het herkennen van opdrachten en hoe meer de betrouwbaarheidsscores toenemen. 
+- Klik op de groene vlag en test je programma om te controleren of jouw klassenassistent op de juiste manier reageert:
+  - Typ opdrachten in die niets met de ventilator of lamp te maken hebben
+  - Vraag om iets aan of uit te zetten
