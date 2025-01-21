@@ -1,47 +1,65 @@
-## Gebruik het machine learning-model in Scratch
+## Challenge
 
-Werk nu je Scratch-programma bij met je machine learning-model in plaats van een op regels gebaseerde aanpak.
+\--- challenge ---
 
-\--- task \---
-+ Klik op de link **<Terug naar project**.
+Follow the same steps as before to allow the assistant to also control the light.
 
-+ Klik op **Maak**.
+\--- task ---
 
-+ Klik op **Scratch 3**.
+- Save a copy of your Scratch project to your computer so that you can easily reload it later to use with your new model.
 
-+ Lees de instructies op de pagina voor meer informatie over het gebruik van machine learning-blokken in Scratch.
+![Click on File and then Save to computer](images/save-to-computer.png)
 
-+ Klik op **Openen in Scratch 3**.
+\--- /task ---
 
-![annotatie wijzend op Open in scratch 3 knop](images/open-scratch-3-annotated.png)
+\--- task ---
 
-+ Klik op **Bestand** en vervolgens op **Uploaden vanaf je computer**en selecteer het eerder opgeslagen Scratch-project.
+- Go back to your model (**Back to project** > **Train**) and add two more labels: `light_on` and `light_off`.
 
-+ Wanneer Scratch je vraagt of het huidige project moet worden vervangen, klik je op **OK**.
+\--- /task ---
 
-\---/task\---
+\--- task ---
 
-\--- task \---
+- Add eight examples of commands you might use to turn the light on.
 
-+ Klik op het tabblad **Code** en werk je Scratch-code bij om je machine learning-model te gebruiken **in plaats** van de regels die je eerst hebt toegevoegd.
+\--- /task ---
 
-Het blok `herkennen tekst … (label)` is een nieuw blok dat door je project is toegevoegd. Dit nieuwe blok kan een bericht ontvangen en een van de vier labels retourneren, op basis van het door jouw getrainde machine-leermodel.
+\--- task ---
 
-![Nieuwe scratch-code inclusief nieuwe machine learning blokken](images/code-new-blocks.png) \---/task\---
+- Add eight examples of commands you might use to turn the light off.
 
-\--- task \---
-+ Klik op de **groene vlag** om opnieuw te testen.
+\--- /task ---
 
-![Testen van nieuwe code van vorige instructie](images/test-with-new-blocks-annotated)
+\--- task ---
 
-+ Test je project: typ een opdracht en druk op <kbd>Enter</kbd> op je toetsenbord. De ventilator of lamp moet op je commando reageren.
+- Re-train your model (**Back to project** > **Learn and Test**) so that it can also recognise commands for turning the light on and off.
 
-Zorg ervoor dat je test of dit werkt, **zelfs voor opdrachten die je niet als voorbeelden in de containers hebt opgenomen.**
+\--- /task ---
 
-+ Sla je project op: klik op **Bestand** en vervolgens op **Opslaan op je computer**. \---/task\---
+\--- task ---
 
-Nu gebruikt je slimme virtuele klaslokaal in Scratch een machine learning-model in plaats van een op regels gebaseerde aanpak.
+- Klik op **Openen in Scratch 3**.
 
-Machine learning gebruiken is beter dan regels gebruiken, omdat het trainen van een programma om opdrachten voor zichzelf te herkennen veel sneller is dan proberen een lijst te maken van alle mogelijke opdrachten.
+- Klik op **Bestand** en vervolgens op **Uploaden vanaf je computer**en selecteer het eerder opgeslagen Scratch-project.
 
-Hoe meer voorbeelden je gebruikt om het machine learning-model te trainen, hoe beter je programma zou moeten worden in het herkennen van opdrachten.
+- Add two more `if` blocks to your program so that you can type commands to control the light.
+
+## --- /task ---
+
+## title: I can't see the blocks for light_on / light_off
+
+If you have trained a new model, you will need to close Scratch and then re-open it from the Machine Learning for Kids website for any new blocks to appear.
+
+Klik op **Scratch 3**.
+
+\--- /collapse ---
+
+\--- /task ---
+
+\--- task ---
+
+- Test whether your program works by typing in commands to turn the light on and off, and checking whether the outcome is as you expected.
+
+\--- /task ---
+
+\--- /challenge ---
