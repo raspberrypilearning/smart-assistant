@@ -44,7 +44,7 @@ Follow the same steps as before to allow the assistant to also control the light
 
 - Add two more `if` blocks to your program so that you can type commands to control the light.
 
-## --- /task ---
+## --- collapse ---
 
 ## title: I can't see the blocks for light_on / light_off
 
