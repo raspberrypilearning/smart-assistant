@@ -1,47 +1,36 @@
-## Collect examples for training
+## Train the model
 
-\--- task \---
-+ Close the Scratch window and go back to the Training tool.
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/62B6yHRVmmg?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
-+ Click on the **< Back to project** link. \--- /task \---
+Now that you have some example data, you can train the machine learning model to label a command as either 'fan on' or 'fan off' based on your examples.
 
-\--- task \---
-+ Click on the **Train** button. ![Project main menu](images/project-train-annotated.png)
+\--- task ---
 
-You need to collect some examples to train the computer. To collect different examples, you need to create 'buckets' to put the examples in.
+- Click on the **< Back to project** link, then click on **Learn & Test**.
+  \--- /task ---
 
-+ To create a bucket, click on **+ Add new label** and call the bucket “fan on”. Click on **+ Add new label** again and create a second bucket called “fan off”. Create a third and a fourth bucket called “lamp on” and "lamp off". ![4 empty classes named fan_on, fan_off, lamp_on and lamp_off](images/empty-buckets.png)
+\--- task ---
 
-+ Click on the **Add example** button in the “fan on” bucket, and type in a command asking for the fan to be turned on. For example, you could type “Please can you switch on the fan”.
+- Click on the **Train new machine learning model** button.
+  \--- /task ---
 
-+ Click on the **Add example** button in the “fan off” bucket, and type in a command asking for the fan to be switched off. For example, you could type “I want the fan off now”.
+Wait for the training to complete — this might take a minute or two. Once the training has completed, a test box appears.
 
-+ Do the same for the “lamp on” and “lamp off” buckets.
+\--- task ---
 
-\--- /task \---
+- Type in `put the fan on` and check that the model labels this input as 'fan on'.
+  ![Type in put the fan on to see if it is recognised](images/test-model.png)
 
-\--- task \---
-+ Continue to **Add example**s until you have at least **six** examples in **each** bucket.
+\--- /task ---
 
-Be imaginative! Try and think of lots of different ways to ask each command. For example:
+\--- task ---
 
-+ For “fan on”, you could complain that you’re too hot.
-+ For “fan off”, you could complain that it’s too breezy.
-+ For “lamp on”, you could complain that you can’t see.
-+ For “lamp off”, you could complain that it’s too bright.
+- Try typing in some other commands for turning the fan on and off, and check that they are given the label you expect.
 
-![4 empty classes named fan_on, fan_off, lamp_on and lamp_off](images/full-buckets.png)
+\--- /task ---
 
-\--- collapse \---
----
-title: Tips for selecting good examples
----
-+ **More is good**: the more examples you give your program, the better the program should get at recognising your commands.
-
-+ **Equal numbers**: add roughly the same number of examples for each command. If you have a lot of examples for one command and not the others, this can affect the way that the program learns to recognise commands.
-
-+ **Make the examples really different from each other**: try to come up with lots of different types of examples. For example, make sure that you include some long examples and some very short ones.
-
-\--- /collapse \--- \--- /task \---
-
-In the next step you will train your program to recognise any new command automatically by comparing it to the examples in the four buckets.
+If you’re not happy with how the computer recognises the commands, go back to the previous step and add some more examples. Then **train new machine learning model** again.
