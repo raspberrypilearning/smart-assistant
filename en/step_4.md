@@ -6,26 +6,31 @@
   </div>
 </html>
 
-
 Now that you have some example data, you can train the machine learning model to label a command as either 'fan on' or 'fan off' based on your examples.
 
 --- task ---
+
 + Click on the **< Back to project** link, then click on **Learn & Test**.
+
 --- /task ---
 
 --- task ---
+
 + Click on the **Train new machine learning model** button. 
+
 --- /task ---
 
 Wait for the training to complete — this might take a minute or two. Once the training has completed, a test box appears. 
 
 --- task ---
+
 + Type in `put the fan on` and check that the model labels this input as 'fan on'.
 ![Type in put the fan on to see if it is recognised](images/test-model.png)
 
 --- /task ---
 
 --- task ---
+
 + Try typing in some other commands for turning the fan on and off, and check that they are given the label you expect. 
 
 --- /task ---
