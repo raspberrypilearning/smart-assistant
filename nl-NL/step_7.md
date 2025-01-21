@@ -31,4 +31,6 @@ The model can tell you how **confident** it is about whether it is correct.
 
 - Klik op de groene vlag en test je programma om te controleren of jouw klassenassistent op de juiste manier reageert:
   - Typ opdrachten in die niets met de ventilator of lamp te maken hebben
-  - Vraag om iets aan of uit te zetten
+  - Ask for something to be turned on or off
+
+\--- /task ---
