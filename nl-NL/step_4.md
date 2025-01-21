@@ -10,13 +10,15 @@ Now that you have some example data, you can train the machine learning model to
 
 \--- task ---
 
-- Klik op de link **< Terug naar project**.
-  \--- /task ---
+- Click on the **< Back to project** link, then click on **Learn & Test**.
+
+\--- /task ---
 
 \--- task ---
 
-- Klik op de knop **Train**.
-  \--- /collapse --- --- /task ---
+- Click on the **Train new machine learning model** button.
+
+\--- /task ---
 
 Wait for the training to complete — this might take a minute or two. Once the training has completed, a test box appears.
 
