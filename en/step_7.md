@@ -12,7 +12,9 @@ The model can tell you how **confident** it is about whether it is correct.
 + Go back to the **Learn & Test** page in the training tool.
 
 + Type something that has nothing to do with lamps or fans into the test box. For example, you could type in 'play some music'.
+
 ![Result of entering "play some music" is fan on with 36% confidence](images/play-music.png)
+
 --- /task ---
 
 The **confidence score** is the program’s way of telling you how likely it is that it has labelled the command correctly. 
