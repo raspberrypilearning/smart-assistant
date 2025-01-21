@@ -13,7 +13,10 @@ The model can tell you how **confident** it is about whether it is correct.
 - Ga terug naar de pagina **Leer & Test** in de trainingstool.
 
 - Typ iets dat niets te maken heeft met lampen of ventilatoren in de testbox. Je kunt bijvoorbeeld typen 'geef me een boterham met kaas'.
-  ![Resultaat van het invoeren van "geef me een boterham met kaas" is lamp aan met 3% vertrouwen](images/cheese-sandwich-annotated.png)
+
+![Result of entering "play some music" is fan on with 36% confidence](images/play-music.png)
+
+\--- /task ---
 
 **De betrouwbaarheidsscore is de manier van het programma om je te vertellen hoe zeker het is dat het een opdracht begrijpt.** Als een opdracht erg lijkt op de voorbeelden waarmee je het programma hebt getraind, is de betrouwbaarheidsscore hoog.
 
