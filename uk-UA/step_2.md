@@ -13,7 +13,8 @@
 - Click on **Get started**.
 
 - Click on **Try it now**.
-  \--- /task ---
+
+\--- /task ---
 
 \--- task ---
 
@@ -26,10 +27,12 @@
 
 - You should now see 'Smart assistant' in the projects list. Click on the project.
   ![Project list with smart assistant listed](images/projects-list.png)
-  \--- /task ---
+
+\--- /task ---
 
 \--- task ---
 
 - Click on the **Train** button.
   ![Project main menu with arrow pointing to Train button](images/project-train.png)
-  \--- /task ---
+
+\--- /task ---
