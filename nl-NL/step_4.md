@@ -1,47 +1,36 @@
-## Verzamel voorbeelden voor training
+## Train the model
 
-\--- task \---
-+ Sluit het Scratch-venster en ga terug naar de trainingstool.
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/62B6yHRVmmg?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
-+ Klik op de link **< Terug naar project**. \---/task\---
+Now that you have some example data, you can train the machine learning model to label a command as either 'fan on' or 'fan off' based on your examples.
 
-\--- task \---
-+ Klik op de knop **Train**. ![Project hoofdmenu](images/project-train-annotated.png)
+\--- task ---
 
-Je moet enkele voorbeelden verzamelen om de computer te trainen. Om verschillende voorbeelden te verzamelen, moet je 'containers' maken om de voorbeelden in te plaatsen.
+- Klik op de link **< Terug naar project**.
+  \--- /task ---
 
-+ Om een container te maken, klik op **+ Voeg een nieuw label toe** en noem de container “ventilator aan”. Klik weer op **+ Voeg een nieuw label toe** en maak een tweede container met de naam "ventilator uit". Maak een derde en een vierde container genaamd "lamp aan" en "lamp uit". ![4 lege klassen genaamd ventilator_aan, ventilator_uit, lamp_aan en lamp_uit](images/empty-buckets.png)
+\--- task ---
 
-+ Klik op de knop **Voeg een voorbeeld toe** in de container 'ventilator aan' en typ een opdracht waarin wordt gevraagd om de ventilator aan te zetten. Je kunt bijvoorbeeld typen "Kun je de ventilator inschakelen".
+- Klik op de knop **Train**.
+  \--- /collapse --- --- /task ---
 
-+ Klik op de knop **Voeg een voorbeeld toe** in de container 'ventilator uit' en typ een opdracht waarin wordt gevraagd om de ventilator uit te zetten. Je kunt bijvoorbeeld typen: "Ik wil de ventilator nu uit".
+Wait for the training to complete — this might take a minute or two. Once the training has completed, a test box appears.
 
-+ Doe hetzelfde voor de containers "lamp aan" en "lamp uit".
+\--- task ---
 
-\--- /task \---
+- Type in `put the fan on` and check that the model labels this input as 'fan on'.
+  ![Type in put the fan on to see if it is recognised](images/test-model.png)
 
-\--- task \---
-+ Ga verder met **Voeg een voorbeeld toe** toe totdat je ten minste **zes** voorbeelden hebt in **elke** container.
+\--- /task ---
 
-Wees fantasierijk! Probeer verschillende manieren te bedenken om elke opdracht te geven. Bijvoorbeeld:
+\--- task ---
 
-+ Voor "ventilator aan", zou je kunnen klagen dat je het te warm hebt.
-+ Voor "ventilator uit", zou je kunnen klagen dat het te fris is.
-+ Voor "lamp aan", zou je kunnen klagen dat je niet kunt zien.
-+ Voor "lamp uit", zou je kunnen klagen dat het te fel is.
+- Try typing in some other commands for turning the fan on and off, and check that they are given the label you expect.
 
-![4 gevulde klassen genaamd ventilator_aan, ventilator_uit, lamp_aan en lamp_uit](images/full-buckets.png)
+\--- /task ---
 
-\--- collapse \---
----
-title: Tips voor het selecteren van goede voorbeelden
----
-+ **Meer is goed**: hoe meer voorbeelden je geeft aan je programma, hoe beter het programma zou moeten worden in het herkennen van je opdrachten.
-
-+ **Gelijke getallen**: voeg ongeveer hetzelfde aantal voorbeelden toe voor elke opdracht. Als je veel voorbeelden voor één opdracht hebt en niet voor de andere, kan dit de manier beïnvloeden waarop het programma opdrachten leert herkennen.
-
-+ **Maak de voorbeelden echt verschillend van elkaar**: probeer veel verschillende soorten voorbeelden te bedenken. Zorg er bijvoorbeeld voor dat je enkele lange en zeer korte voorbeelden toevoegt.
-
-\--- /collapse \--- \--- /task \---
-
-In de volgende stap zult je je programma trainen om elke nieuwe opdracht automatisch te herkennen door deze te vergelijken met de voorbeelden in de vier containers.
+If you’re not happy with how the computer recognises the commands, go back to the previous step and add some more examples. Then **train new machine learning model** again.
