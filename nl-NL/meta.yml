@@ -5,7 +5,7 @@ description: Maak een virtuele klassenassistent die op opdrachten reageert
 version: 4
 listed: true
 copyedit: true
-last_tested: "2019-05-09"
+last_tested: '2019-05-09'
 steps:
   - 
     title: Inleiding
@@ -13,16 +13,20 @@ steps:
     title: Hoe maak je een project
   - 
     title: Voeg een lijst met regels toe
+    completion:
+      - engaged
   - 
     title: Verzamel voorbeelden voor training
   - 
     title: Train en test een machine learning-model
   - 
-    title: Gebruik het machine learning-model in Scratch
-  - 
-    title: Hoe betrouwbaarheidsscores te gebruiken
-  - 
-    title: "Uitdaging: meer items om te besturen"
+    title: 'Gebruik het machine learning-model in Scratch'
     challenge: true
   - 
-    title: Wat kun je verder nog doen?
+    title: Hoe betrouwbaarheidsscores te gebruiken
+    completion:
+      - internal
+  - 
+    title: 'Uitdaging: meer items om te controleren'
+    completion:
+      - external
