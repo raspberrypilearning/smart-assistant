@@ -28,7 +28,9 @@ The **confidence score** is the program’s way of telling you how likely it is 
 --- /task ---
 
 --- task ---
+
 + Click the **green flag** and test your program to check that your  assistant reacts in the right way:
     + Type in commands that have nothing to do with the fan or lamp
     + Ask for something to be turned on or off
+
 --- /task ---

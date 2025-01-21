@@ -6,18 +6,18 @@
   </div>
 </html>
 
-
-
-
 --- task ---
+
 + Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser. 
 
 + Click on **Get started**.
 
 + Click on **Try it now**.
+
 --- /task ---
 
 --- task ---
+
 + Click on **Projects** in the menu bar at the top.
 
 + Click on the **+ Add a new project** button.
@@ -27,9 +27,12 @@
 
 + You should now see 'Smart assistant' in the projects list. Click on the project.
 ![Project list with smart assistant listed](images/projects-list.png)
+
 --- /task ---
 
 --- task ---
+
 + Click on the **Train** button.
 ![Project main menu with arrow pointing to Train button](images/project-train.png)
+
 --- /task ---
