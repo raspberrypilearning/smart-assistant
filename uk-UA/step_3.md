@@ -1,53 +1,42 @@
-## Add a list of rules
+## Example commands
 
-In this step, you will edit the project to include a list of rules to activate and de-activate the fan and the lamp.
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/aekrXl_-Q_o?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
-\--- task \---
-+ Click the **classroom** sprite to select it, as shown below:
+The room has two devices: a fan and a light.
 
-![Scratch template project](images/scratch-template-annotated.png)
+![A fan and a light](images/classroom-devices.png)
 
-+ Click on the **Scripts** tab and create the following script:
+Your assistant needs some examples of the phrases you might say when you want each device to be turned on or off. For example, to **turn the fan on**, you might say:
 
-```blocks3
-when green flag clicked
-forever
-ask [Enter your command] and wait
-if <(answer) = [Turn on the fan]> then
-broadcast (turn-fan-on v)
-end
-if <(answer) = [Turn off the fan]> then
-broadcast (turn-fan-off v)
-end
-if <(answer) = [Turn on the lamp]> then
-broadcast (turn-lamp-on v)
-end
-if <(answer) = [Turn off the lamp]> then
-broadcast (turn-lamp-off v)
-end
-end
-```
+- "Turn on the fan"
+- "Start the fan"
+- "Please could you switch on the fan"
+- "I'm too hot"
+- "It's hot in here"
 
-+ Click on **File** and then on **Save to your computer**, and save the program to a file. \--- /task \---
+\--- task ---
 
-\--- task \---
+- Click on **+ Add new label** on the top right and add the label “fan on”.
 
-+ Click on the **green flag** to test your program.
+\--- /task ---
 
-![Scratch interface just after green flag is clicked](images/click-flag-annotated.png)
+\--- task ---
 
-+ Type in a command and watch the program react! The following commands should all work:
-    * “Turn on the lamp”
-    * “Turn off the lamp”
-    * “Turn on the fan”
-    * “Turn off the fan”
+- Click on **Add example** and type in `Turn on the fan`.
+  \--- /task ---
 
-* Type in anything else, and your program does nothing! Even if you make a small spelling mistake, the program does not react.
+\--- task ---
 
-\--- /task \---
+- Continue to click on the **Add example** button and add different ways of asking for the fan to be turned on until you have eight different ways of asking.
+  \--- /task ---
 
-You’re telling your virtual classroom assistant to react to commands using a simple rules-based approach. But if you wanted your program to understand commands that are phrased differently, you would need to add extra `if` blocks.
+\--- task ---
 
-The problem with this rules-based approach is that you need to exactly predict all the commands the smart classroom assistant will get. Listing every possible command would take a very, very long time.
+- Click on **Add new label**, but this time create the label "fan off". Add eight different examples of ways you could ask for the fan to be turned off.
+  \--- /task ---
 
-Next, you will try a better approach: teaching the computer to recognise commands by itself.
+![Fan on and off categories with eight examples of commands in each](images/fan-on-and-off.png)
