@@ -1,53 +1,42 @@
-## Voeg een lijst met regels toe
+## Example commands
 
-In deze stap bewerk je het project met een lijst met regels voor het aan- en uitzetten van de ventilator en de lamp.
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/aekrXl_-Q_o?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
-\--- task \---
-+ Klik op de sprite van **klas** om deze te selecteren, zoals hieronder weergegeven:
+The room has two devices: a fan and a light.
 
-![Scratch sjabloonproject](images/scratch-template-annotated.png)
+![A fan and a light](images/classroom-devices.png)
 
-+ Klik op het tabblad **Code** en maak het volgende script:
+Your assistant needs some examples of the phrases you might say when you want each device to be turned on or off. For example, to **turn the fan on**, you might say:
 
-```blocks3
-wanneer groene vlag wordt aangeklikt
-herhaal 
-vraag [Voer je opdracht in] en wacht
-als <(antwoord) = [Zet de ventilator aan]> dan 
-zend signaal (zet-ventilator-aan v)
-end
-als <(antwoord) = [Zet de ventilator uit]> dan 
-zend signaal (zet-ventilator-uit v)
-end
-als <(antwoord) = [Zet de lamp aan]> dan 
-zend signaal (zet-lamp-aan v)
-end
-als <(antwoord) = [Zet de lamp uit]> dan 
-zend signaal (zet-lamp-uit v)
-end
-end
-```
+- "Zet de ventilator aan"
+- "Zet de ventilator uit"
+- "Zet de lamp uit"
+- "I'm too hot"
+- "It's hot in here"
 
-+ Klik op **Bestand** en vervolgens op **Opslaan op je computer** en sla het programma op in een bestand. \--- /task \---
+\--- task ---
 
-\--- task \---
+- Click on **+ Add new label** on the top right and add the label “fan on”.
 
-+ Klik op de **groene vlag** om je programma te testen.
+\--- /task ---
 
-![Scratch-interface net nadat op de groene vlag is geklikt](images/click-flag-annotated.png)
+\--- task ---
 
-+ Typ een opdracht in en kijk hoe het programma reageert! De volgende opdrachten zouden allemaal moeten werken:
-    * "Zet de lamp aan"
-    * "Zet de lamp uit"
-    * "Zet de ventilator aan"
-    * "Zet de ventilator uit"
+- Klik op **Bestand** en vervolgens op **Opslaan op je computer** en sla het programma op in een bestand.
+  \--- /task ---
 
-* Typ iets anders en je programma doet niets! Zelfs als je een kleine spelfout maakt, reageert het programma niet.
+\--- task ---
 
-\--- /task \---
+- Continue to click on the **Add example** button and add different ways of asking for the fan to be turned on until you have eight different ways of asking.
+  \--- /task ---
 
-Je vertelt je virtuele klassenassistent om op opdrachten te reageren met een eenvoudige, op regels gebaseerde aanpak. Maar als je wilt dat je programma opdrachten begrijpt die anders zijn geformuleerd, moet je extra `als` blokken toevoegen.
+\--- task ---
 
-Het probleem met deze op regels gebaseerde benadering is dat je precies alle opdrachten moet voorspellen die de slimme klassenassistent krijgt. Het noteren van elke mogelijk opdracht zou heel, heel lang duren.
+- Click on **Add new label**, but this time create the label "fan off". Add eight different examples of ways you could ask for the fan to be turned off.
+  \--- /task ---
 
-Vervolgens probeer je nu een betere aanpak: de computer leren opdrachten zelf te herkennen.
+![Fan on and off categories with eight examples of commands in each](images/fan-on-and-off.png)
