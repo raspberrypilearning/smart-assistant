@@ -10,13 +10,13 @@ Now that you have some example data, you can train the machine learning model to
 
 \--- task ---
 
-- Click on the **< Back to project** link, then click on **Learn & Test**.
+- Klik op de link **< Terug naar project**.
 
 \--- /task ---
 
 \--- task ---
 
-- Click on the **Train new machine learning model** button.
+- Klik op de knop **Train**.
 
 \--- /task ---
 
