@@ -12,27 +12,27 @@
 
 - Klik op **Begin**
 
-- Click on **Try it now**.
+- Klik op **Scratch 3**.
 
 \--- /task ---
 
 \--- task ---
 
-- Click on **Projects** in the menu bar at the top.
+- Klik op **Projecten** in de menubalk bovenaan.
 
-- Click on the **+ Add a new project** button.
+- Klik op de knop **+ Voeg een nieuw project toe**.
 
-- Name your project `Smart assistant` and set it to learn to recognise **text**, and store data **in your web browser**. Then click on **Create**.
-  ![Creating a project](images/create-project.png)
+- Noem je project 'slim klaslokaal', stel het in om **tekst** te leren herkennen en stel de taal in op Dutch (Nederlands). Klik vervolgens op **Creëer**.
+  ![Een project maken](images/create-project-annotated.png)
 
-- You should now see 'Smart assistant' in the projects list. Click on the project.
-  ![Project list with smart assistant listed](images/projects-list.png)
+- Je zou nu 'slim klaslokaal' moeten zien in de projectenlijst. Klik op dit project.
+  ![Project list with smart classroom listed](images/projects-list-annotated.png) --- /task ---
 
 \--- /task ---
 
 \--- task ---
 
 - Klik op **Maak**.
-  ![Project main menu with arrow pointing to Train button](images/project-train.png)
+  ![Project hoofdmenu](images/project-make-annotated.png)
 
 \--- /task ---
