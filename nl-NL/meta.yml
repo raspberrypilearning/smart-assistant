@@ -26,7 +26,6 @@ steps:
     title: Hoe betrouwbaarheidsscores te gebruiken
     completion:
       - internal
+      - external
   - 
     title: 'Uitdaging: meer items om te controleren'
-    completion:
-      - external
