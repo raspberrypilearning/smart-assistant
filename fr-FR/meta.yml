@@ -7,26 +7,18 @@ listed: true
 copyedit: true
 last_tested: '2019-05-09'
 steps:
-  - 
-    title: What you will make
-  - 
-    title: Set up the project
-  - 
-    title: Example commands
-    completion:
-      - engaged
-  - 
-    title: Train the model
-  - 
-    title: Create the assistant
-  - 
-    title: 'Challenge'
-    challenge: true
-  - 
-    title: Confidence scores
-    completion:
-      - internal
-  - 
-    title: What can you do now?
-    completion:
-      - external
+- title: What you will make
+- title: Set up the project
+- title: Example commands
+  completion:
+  - engaged
+- title: Train the model
+- title: Create the assistant
+- title: 'Challenge'
+  challenge: true
+- title: Confidence scores
+  completion:
+  - internal
+- title: What can you do now?
+  completion:
+  - external
