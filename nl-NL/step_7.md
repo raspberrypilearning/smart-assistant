@@ -1,4 +1,4 @@
-## Confidence scores
+## Hoe betrouwbaarheidsscores te gebruiken
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -12,17 +12,17 @@ The model can tell you how **confident** it is about whether it is correct.
 
 - Ga terug naar de pagina **Leer & Test** in de trainingstool.
 
-- Typ iets dat niets te maken heeft met lampen of ventilatoren in de testbox. Je kunt bijvoorbeeld typen 'geef me een boterham met kaas'.
+- Typ iets dat niets te maken heeft met lampen of ventilatoren in de testbox. For example, you could type in 'play some music'.
 
 ![Result of entering "play some music" is fan on with 36% confidence](images/play-music.png)
 
 \--- /task ---
 
-**De betrouwbaarheidsscore is de manier van het programma om je te vertellen hoe zeker het is dat het een opdracht begrijpt.** Als een opdracht erg lijkt op de voorbeelden waarmee je het programma hebt getraind, is de betrouwbaarheidsscore hoog.
+The **confidence score** is the program’s way of telling you how likely it is that it has labelled the command correctly.
 
 \--- task ---
 
-- Laat Scratch open, want je komt zo terug.
+- Return to Scratch.
 
 - Add some new code so that the assistant will tell you it didn't understand the command if the confidence score is less than 70%.
 
