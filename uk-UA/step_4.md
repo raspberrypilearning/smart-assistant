@@ -36,3 +36,5 @@ Wait for the training to complete — this might take a minute or two. Once the 
 \--- /task ---
 
 If you’re not happy with how the computer recognises the commands, go back to the previous step and add some more examples. Then **train new machine learning model** again.
+
+
