@@ -1,4 +1,4 @@
-## Create the assistant
+## Train en test een machine learning-model
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -10,7 +10,7 @@ Now that your model can distinguish between commands, you can use it in a Scratc
 
 \--- task ---
 
-- Klik op de link **< Terug naar project** en klik vervolgens op **Leer & Test**.
+- Click on the **< Back to project** link.
 
 - Click on **Make**.
 
