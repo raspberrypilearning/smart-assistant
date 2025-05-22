@@ -22,10 +22,10 @@
 
 - Klik op de knop **+ Voeg een nieuw project toe**.
 
-- Noem je project 'slim klaslokaal', stel het in om **tekst** te leren herkennen en stel de taal in op Dutch (Nederlands). Klik vervolgens op **Creëer**.
+- Name your project `Smart assistant` and set it to learn to recognise **text**, and store data **in your web browser**. Klik vervolgens op **Creëer**.
   ![Een project maken](images/create-project-annotated.png)
 
-- Je zou nu 'slim klaslokaal' moeten zien in de projectenlijst. Klik op dit project.
+- You should now see 'Smart assistant' in the projects list. Klik op dit project.
   ![Project list with smart classroom listed](images/projects-list-annotated.png) --- /task ---
 
 \--- /task ---
