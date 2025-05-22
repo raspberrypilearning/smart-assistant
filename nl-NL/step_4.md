@@ -1,4 +1,4 @@
-## Train the model
+## Verzamel voorbeelden voor training
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -10,13 +10,13 @@ Now that you have some example data, you can train the machine learning model to
 
 \--- task ---
 
-- Klik op de link **< Terug naar project**.
+- Click on the **< Back to project** link, then click on **Learn & Test**.
 
 \--- /task ---
 
 \--- task ---
 
-- Klik op de knop **Train**.
+- Click on the **Train new machine learning model** button.
 
 \--- /task ---
 
