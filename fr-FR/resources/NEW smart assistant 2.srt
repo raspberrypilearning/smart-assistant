@@ -1,27 +1,27 @@
 1
 00:00:04,320 --> 00:00:06,080
-Add two new labels
+Ajoute deux nouvelles étiquettes,
 
 2
 00:00:06,080 --> 00:00:08,400
-one for fan on,
+une pour le ventilateur allumé,
 
 3
 00:00:08,400 --> 00:00:12,760
-and one for fan off.
+et une autre pour le ventilateur éteint.
 
 4
 00:00:12,760 --> 00:00:18,200
-Type an example of a command 
-that should turn the fan on.
+Tape un exemple de commande 
+qui devrait allumer le ventilateur.
 
 5
 00:00:18,200 --> 00:00:23,240
-Then repeat until you have 
-eight different examples.
+Puis répète jusqu'à ce que tu aies 
+huit exemples différents.
 
 6
 00:00:23,240 --> 00:00:29,960
-Now you need eight different examples 
-of commands to turn the fan off too.
+Tu as maintenant besoin de huit exemples différents 
+de commandes pour éteindre également le ventilateur.
 
