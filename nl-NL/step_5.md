@@ -1,4 +1,4 @@
-## Train en test een machine learning-model
+## Maak de assistent
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,54 +6,54 @@
   </div>
 </html>
 
-Now that your model can distinguish between commands, you can use it in a Scratch program to create your smart assistant.
+Nu je model onderscheid kan maken tussen commando's, kun je het gebruiken in een Scratch programma om je slimme assistent te maken.
 
 \--- task ---
 
-- Click on the **< Back to project** link.
+- Klik op de link **< Terug naar project** en klik vervolgens op **Leer & Test**.
 
-- Click on **Make**.
+- Klik op **Maak**.
 
-- Click on **Scratch 3**.
+- Klik op **Scratch 3**.
 
-- Click on **Open in Scratch 3**.
+- Klik op **Open in Scratch 3**.
 
 \--- /task ---
 
 \--- task ---
 
-- Click on **Project templates** at the top and select the 'Smart classroom' project to load the fan and light sprites. This project also contains pre-made yellow `broadcast` blocks, which can be found under **Events**.
+- Klik bovenaan op **Projectsjablonen** en selecteer het project 'Slim klaslokaal' om de ventilator- en lamp sprites te laden. Dit project bevat ook kant-en-klare gele `gebeurtenis` blokken, die je kunt vinden onder **Gebeurtenissen**.
 
-![Smart classroom project is selected in the Scratch templates](images/smart-classroom.png)
-
-\--- /task ---
-
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
-
-![New 'smart assistant' blocks shown in the menu underneath Images](images/new-blocks-menu.png)
-
-\--- task ---
-
-- Make sure you have the **Classroom** sprite selected, then click on the **Code** tab and add this code:
-
-![New scratch code: when flag clicked, forever, ask 'enter your command' and wait. If recognise text (answer) label = fan on, then broadcast turn-fan-on ](images/turn-fan-on.png)
+![Slimk klaslokaal-project is geselecteerd in de Scratch- project sjablonen](images/smart-classroom.png)
 
 \--- /task ---
 
+Machine Learning for Kids heeft een paar speciale blokken aan Scratch toegevoegd om het model dat je net hebt getraind te kunnen gebruiken. Je vindt ze onderaan de lijst met blokken.
+
+![Nieuwe 'slimme assistent'-blokken weergegeven in het menu onder Images](images/new-blocks-menu.png)
+
 \--- task ---
 
-- Right click on the `if` block and select **Duplicate** to add a copy of the whole block of code, and put it directly underneath the first `if`.
+- Zorg ervoor dat je de **Klaslokaal** sprite hebt geselecteerd, klik vervolgens op het **Code** tabblad en voeg deze code toe:
 
-- Change the second copy of the block so that it recognises the text for turning the fan **off**, and broadcasts **turn-fan-off**.
-
-![New scratch code: If recognise text (answer) label = fan off, then broadcast turn-fan-off](images/turn-fan-off.png)
+![Nieuwe scratch code: wanneer op groene vlag wordt geklikt, herhaal en vraag 'voer je commando in' en wacht. Als de tekst (antwoord) label = ventilator aan herkent, zend dan ventilator-aan](images/turn-fan-on.png)
 
 \--- /task ---
 
 \--- task ---
 
-- Click the **green flag** and type in a command to turn the fan on or off. Check that it has the result you expected.
+- Klik met de rechtermuisknop op het `als`-blok en selecteer **Dupliceren** om een kopie van het volledige codeblok toe te voegen en plaats deze direct onder het eerste `als`-blok.
 
-- Make sure you test that the assistant performs the correct action **even for commands that you didn’t include as examples**.
+- Verander de tweede kopie van het blok, zodat het de tekst herkent voor het **uit**schakelen van de ventilator, en zend **zet-ventilator-uit**.
+
+![Nieuw scratch code: Als de tekst (antwoord) label = ventilator uit herkent, zend dan de zet-ventilator-uit](images/turn-fan-off.png)
+
+\--- /task ---
+
+\--- task ---
+
+- Klik op de **groene vlag** en typ een opdracht om de ventilator aan of uit te zetten. Controleer of het resultaat is wat je verwachtte.
+
+- Controleer of de assistent de juiste actie uitvoert, **ook voor opdrachten die je niet als voorbeeld hebt opgenomen**.
 
 \--- /task ---
