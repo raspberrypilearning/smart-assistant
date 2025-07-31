@@ -1,19 +1,19 @@
 1
 00:00:03,600 --> 00:00:10,200
-Click 'Back', then click 'Learn & Test'.
+Clique sur « Revenir au projet », puis sur « Apprendre & Tester ».
 
 2
 00:00:10,200 --> 00:00:14,720
-Click the button to start training 
-your model - it might take a while.
+Clique sur le bouton pour commencer à entraîner 
+ton modèle - cela peut prendre un certain temps.
 
 3
 00:00:14,720 --> 00:00:18,120
-When it is done, type in a 
-command to test the model.
+Une fois terminé, tape une 
+commande pour tester le modèle.
 
 4
 00:00:18,120 --> 00:00:29,960
-Check that your command gives 
-the result you were expecting.
+Vérifie que ta commande donne 
+le résultat attendu.
 
