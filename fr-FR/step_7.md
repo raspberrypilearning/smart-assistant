@@ -1,4 +1,4 @@
-## Confidence scores
+## Score de confiance
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,34 +6,34 @@
   </div>
 </html>
 
-The model can tell you how **confident** it is about whether it is correct.
+Le modèle peut t'indiquer à quel point il est **confiant** quant à son exactitude.
 
 \--- task ---
 
-- Go back to the **Learn & Test** page in the training tool.
+- Retourne à la page **Apprendre & Tester** dans l’outil d'entraînement.
 
-- Type something that has nothing to do with lamps or fans into the test box. For example, you could type in 'play some music'.
+- Tape quelque chose qui n’a rien à voir avec les lampes ou les ventilateurs dans la zone de test. Par exemple, tu peux taper « joue de la musique ».
 
-![Result of entering "play some music" is fan on with 36% confidence](images/play-music.png)
+![Le résultat de la saisie de « joue de la musique » est « ventilateur_allume » avec 36 % de confiance](images/play-music.png)
 
 \--- /task ---
 
-The **confidence score** is the program’s way of telling you how likely it is that it has labelled the command correctly.
+Le **score de confiance** est la façon dont le programme te dit à quel point il est probable qu'il ait étiqueté la commande correctement.
 
 \--- task ---
 
-- Return to Scratch.
+- Reviens dans Scratch.
 
-- Add some new code so that the assistant will tell you it didn't understand the command if the confidence score is less than 70%.
+- Ajoute un nouveau code pour que l'assistant t'indique qu'il n'a pas compris la commande si le score de confiance est inférieur à 70 %.
 
-![New Scratch code: If recognise text (answer) confidence < 70, say 'Sorry I didn't understand that' for 2 seconds](images/code-with-confidence.png)
+![Nouveau code Scratch : si reconnaître texte (réponse) confiance < 70, dire « Désolé, je n'ai pas compris » pendant 2 secondes](images/code-with-confidence.png)
 
 \--- /task ---
 
 \--- task ---
 
-- Click the **green flag** and test your program to check that your  assistant reacts in the right way:
-  - Type in commands that have nothing to do with the fan or lamp
-  - Ask for something to be turned on or off
+- Clique sur le **drapeau vert** et teste ton programme pour vérifier que ton assistant réagit de la bonne manière :
+  - Tape des commandes qui n’ont rien à voir avec le ventilateur ou la lampe
+  - Demande que quelque chose soit allumé ou éteint
 
 \--- /task ---
