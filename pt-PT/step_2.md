@@ -1,33 +1,38 @@
-## How to create a project
+## Set up the project
 
-\--- task \---
-+ Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/aTKd6sH3PhM?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
-+ Click on **Get Started**
+\--- task ---
 
-+ Click on **Try it now**. \--- /task \---
+- Go to [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in a web browser.
 
-\--- task \---
-+ Click on **Projects** in the menu bar at the top.
+- Click on **Get started**.
 
-+ Click on the **+ Add a new project** button.
+- Click on **Try it now**.
 
-+ Name your project 'smart classroom' and set it to learn to recognise **text**.  Then click on **Create**. ![Creating a project](images/create-project-annotated.png)
+\--- /task ---
 
-+ You should now see 'smart classroom' in the projects list. Click on this project. ![Project list with smart classroom listed](images/projects-list-annotated.png) \--- /task \---
+\--- task ---
 
-\--- task \---
+- Click on **Projects** in the menu bar at the top.
 
-Now get a project ready in Scratch.
+- Click on the **+ Add a new project** button.
 
-+ Click on **Make**. ![Project main menu](images/project-make-annotated.png)
+- Name your project `Smart assistant` and set it to learn to recognise **text**, and store data **in your web browser**. Then click on **Create**.
+  ![Creating a project](images/create-project.png)
 
-+ Click on **Scratch 3**.
+- You should now see 'Smart assistant' in the projects list. Click on the project.
+  ![Project list with smart assistant listed](images/projects-list.png)
 
-+ Click on **Scratch by itself**. The page then warns you that you haven’t done any machine learning yet. Click on **Scratch by itself** to launch Scratch.
+\--- /task ---
 
-+ Click on **Project templates**. ![Scratch menu bar](images/project-templates-annotated.png)
+\--- task ---
 
-+ Click on the **Smart Classroom** template.
+- Click on the **Train** button.
+  ![Project main menu with arrow pointing to Train button](images/project-train.png)
 
-![Scratch template project](images/scratch-template.png) \--- /task \---
+\--- /task ---
