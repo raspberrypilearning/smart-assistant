@@ -1,56 +1,56 @@
-## Challenge
+## Défi
 
 \--- challenge ---
 
-Follow the same steps as before to allow the assistant to also control the light.
+Suis les mêmes étapes que précédemment pour permettre à l’assistant de contrôler également la lumière.
 
 \--- task ---
 
-- Save a copy of your Scratch project to your computer so that you can easily reload it later to use with your new model.
+- Enregistre une copie de ton projet Scratch sur ton ordinateur afin de pouvoir facilement le recharger ultérieurement pour l'utiliser avec ton nouveau modèle.
 
-![Click on File and then Save to computer](images/save-to-computer.png)
+![Clique sur Fichier puis sur Sauvegarder sur votre ordinateur](images/save-to-computer.png)
 
 \--- /task ---
 
 \--- task ---
 
-- Go back to your model (**Back to project** > **Train**) and add two more labels: `light_on` and `light_off`.
+- Reviens à ton modèle (**Revenir au projet** > **Entraîner**) et ajoute deux autres étiquettes : `allumer-lumiere` et `eteindre-lumiere`.
 
 \--- /task ---
 
 \--- task ---
 
-- Add eight examples of commands you might use to turn the light on.
+- Ajoute huit exemples de commandes que tu pourrais utiliser pour allumer la lumière.
 
 \--- /task ---
 
 \--- task ---
 
-- Add eight examples of commands you might use to turn the light off.
+- Ajoute huit exemples de commandes que tu pourrais utiliser pour éteindre la lumière.
 
 \--- /task ---
 
 \--- task ---
 
-- Re-train your model (**Back to project** > **Learn and Test**) so that it can also recognise commands for turning the light on and off.
+- Réentraîne ton modèle (**Revenir au projet** > **Apprendre & Tester**) afin qu'il puisse également reconnaître les commandes permettant d'allumer et d'éteindre la lumière.
 
 \--- /task ---
 
 \--- task ---
 
-- Load your new model into Scratch (**Make** > **Scratch 3** > **Open in Scratch 3**).
+- Charge ton nouveau modèle dans Scratch (**Faire** > **Scratch 3** > **Ouvrir dans Scratch 3**).
 
-- In Scratch, reload the code you saved earlier (**File** > **Load from my computer**).
+- Dans Scratch, recharge le code que tu as sauvegardé précédemment (**Fichier** > **Importer depuis votre ordinateur**).
 
-- Add two more `if` blocks to your program so that you can type commands to control the light.
+- Ajoute deux autres blocs « si » à ton programme afin de pouvoir taper des commandes pour contrôler la lumière.
 
 ## --- collapse ---
 
-## title: I can't see the blocks for light_on / light_off
+## title: Je ne vois pas les blocs pour allumer-lumiere / eteindre-lumiere
 
-If you have trained a new model, you will need to close Scratch and then re-open it from the Machine Learning for Kids website for any new blocks to appear.
+Si tu as entraîné un nouveau modèle, tu devras fermer Scratch, puis le rouvrir à partir du site web Machine Learning for Kids pour que de nouveaux blocs apparaissent.
 
-Click **Make** > **Scratch 3** > **Open in Scratch 3**.
+Clique sur **Faire** > **Scratch 3** > **Ouvrir dans Scratch 3**.
 
 \--- /collapse ---
 
@@ -58,7 +58,7 @@ Click **Make** > **Scratch 3** > **Open in Scratch 3**.
 
 \--- task ---
 
-- Test whether your program works by typing in commands to turn the light on and off, and checking whether the outcome is as you expected.
+- Teste si ton programme fonctionne en tapant des commandes pour allumer et éteindre la lumière et en vérifiant si c'est le résultat attendu.
 
 \--- /task ---
 
