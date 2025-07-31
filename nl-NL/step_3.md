@@ -1,4 +1,4 @@
-## Voeg een lijst met regels toe
+## Voorbeeldopdrachten
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,40 +6,40 @@
   </div>
 </html>
 
-The room has two devices: a fan and a light.
+De kamer heeft twee apparaten: een ventilator en een lamp.
 
-![A fan and a light](images/classroom-devices.png)
+![Een ventilator en een lamp](images/classroom-devices.png)
 
-Your assistant needs some examples of the phrases you might say when you want each device to be turned on or off. For example, to **turn the fan on**, you might say:
+Jouw assistent heeft een aantal voorbeelden nodig van zinnen die je kunt zeggen wanneer je een apparaat wilt in- of uitschakelen. Om bijvoorbeeld **de ventilator aan te zetten**, zou je kunnen zeggen:
 
 - "Zet de ventilator aan"
 - "Zet de ventilator uit"
 - "Zet de lamp uit"
-- "I'm too hot"
-- "It's hot in here"
+- "Ik heb het te warm"
+- "Het is warm hier"
 
 \--- task ---
 
-- Click on **+ Add new label** on the top right and add the label “fan on”.
+- Klik rechtsboven op **+ Voeg een nieuw label toe** en voeg het label “ventilator aan” toe.
 
 \--- /task ---
 
 \--- task ---
 
-- Click on **Add example** and type in `Turn on the fan`.
+- Klik op **Voeg een voorbeeld toe** en typ `Zet ventilator aan`.
 
 \--- /task ---
 
 \--- task ---
 
-- Continue to click on the **Add example** button and add different ways of asking for the fan to be turned on until you have eight different ways of asking.
+- Blijf op de knop **Voeg een voorbeeld toe** klikken en bedenk verschillende manieren om te vragen of de ventilator aangezet mag worden, totdat je acht verschillende manieren hebt om het te vragen.
 
 \--- /task ---
 
 \--- task ---
 
-- Click on **Add new label**, but this time create the label "fan off". Add eight different examples of ways you could ask for the fan to be turned off.
+- Klik op **Voeg een nieuw label toe**, maar maak deze keer het label "ventilator uit". Voeg acht verschillende voorbeelden toe van manieren waarop je kunt vragen om de ventilator uit te zetten.
 
 \--- /task ---
 
-![Fan on and off categories with eight examples of commands in each](images/fan-on-and-off.png)
+![Ventilator aan en uit categorieën met acht voorbeelden van elk commando](images/fan-on-and-off.png)
