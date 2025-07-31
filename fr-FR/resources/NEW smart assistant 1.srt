@@ -1,0 +1,26 @@
+1
+00:00:04,040 --> 00:00:09,880
+Va sur rpf.io/ML4K et démarre.
+
+2
+00:00:09,880 --> 00:00:12,640
+Clique sur « Essayer maintenant ».
+
+3
+00:00:12,640 --> 00:00:16,960
+Ajoute un nouveau projet appelé « Assistant intelligent ».
+
+4
+00:00:16,960 --> 00:00:23,240
+Configure-le pour reconnaître le texte en français et 
+stocke les données dans ton navigateur web.
+
+5
+00:00:23,240 --> 00:00:29,000
+Crée le projet, puis 
+clique sur le nom du projet.
+
+6
+00:00:29,000 --> 00:00:29,960
+Clique maintenant sur « Entraîner ».
+

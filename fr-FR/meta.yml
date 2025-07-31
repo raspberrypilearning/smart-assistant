@@ -1,0 +1,23 @@
+---
+title: Assistant intelligent
+hero_image: images/banner.png
+description: Crée un assistant virtuel qui réagit aux commandes
+version: 4
+listed: true
+copyedit: true
+last_tested: '2019-05-09'
+steps:
+- title: Ce que tu vas faire
+- title: Configurer le projet
+- title: Exemples de commandes
+  completion:
+  - engaged
+- title: Entraîner le modèle
+- title: Créer l'assistant
+- title: 'Défi'
+  challenge: true
+- title: Score de confiance
+  completion:
+  - internal
+  completion:
+  - external
