@@ -1,19 +1,19 @@
 1
 00:00:03,600 --> 00:00:10,200
-Click 'Back', then click 'Learn & Test'.
+Klik op 'Terug naar project' en klik vervolgens op 'Leer & Test'.
 
 2
 00:00:10,200 --> 00:00:14,720
-Click the button to start training 
-your model - it might take a while.
+Klik op de knop om te beginnen met het trainen 
+van jouw model - dit kan even duren.
 
 3
 00:00:14,720 --> 00:00:18,120
-When it is done, type in a 
-command to test the model.
+Wanneer dit klaar is, typ je een
+opdracht in om het model te testen.
 
 4
 00:00:18,120 --> 00:00:29,960
-Check that your command gives 
-the result you were expecting.
+Controleer of jouw opdracht
+het verwachte resultaat oplevert.
 
