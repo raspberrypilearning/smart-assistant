@@ -1,24 +1,21 @@
 ---
-title: Smart assistant
+title: Assistant intelligent
 hero_image: images/banner.png
-description: Create a virtual assistant that reacts to commands
+description: Crée un assistant virtuel qui réagit aux commandes
 version: 4
 listed: true
 copyedit: true
 last_tested: '2019-05-09'
 steps:
-- title: What you will make
-- title: Set up the project
-- title: Example commands
+- title: Ce que tu vas faire
+- title: Configurer le projet
+- title: Exemples de commandes
   completion:
   - engaged
-- title: Train the model
-- title: Create the assistant
-- title: 'Challenge'
+- title: Entraîner le modèle
+- title: Créer l'assistant
+- title: 'Défi'
   challenge: true
-- title: Confidence scores
-  completion:
-  - internal
-- title: What can you do now?
+- title: Score de confiance
   completion:
   - external
