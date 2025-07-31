@@ -1,24 +1,21 @@
 ---
-title: Slimme klassenassistent
+title: Slimme assistent
 hero_image: images/banner.png
-description: Maak een virtuele klassenassistent die op opdrachten reageert
+description: Maak een virtuele assistent die reageert op commando's
 version: 4
 listed: true
 copyedit: true
 last_tested: '2019-05-09'
 steps:
-- title: Inleiding
-- title: Hoe maak je een project
-- title: Voeg een lijst met regels toe
+- title: Wat ga je maken
+- title: Het project opzetten
+- title: Voorbeeldopdrachten
   completion:
   - engaged
-- title: Verzamel voorbeelden voor training
-- title: Train en test een machine learning-model
+- title: Train het model
+- title: Maak de assistent
 - title: 'Gebruik het machine learning-model in Scratch'
   challenge: true
-- title: Hoe betrouwbaarheidsscores te gebruiken
+- title: Betrouwbaarheidsscores
   completion:
   - internal
-- title: 'Uitdaging: meer items om te controleren'
-  completion:
-  - external
