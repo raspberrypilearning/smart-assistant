@@ -1,4 +1,4 @@
-## Create the assistant
+## Créer l'assistant
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,54 +6,54 @@
   </div>
 </html>
 
-Now that your model can distinguish between commands, you can use it in a Scratch program to create your smart assistant.
+Maintenant que ton modèle peut distinguer les commandes, tu peux l'utiliser dans un programme Scratch pour créer ton assistant intelligent.
 
 \--- task ---
 
-- Click on the **< Back to project** link.
+- Clique sur le lien **< Revenir au projet**.
 
-- Click on **Make**.
+- Clique sur **Faire**.
 
-- Click on **Scratch 3**.
+- Clique sur **Scratch 3**.
 
-- Click on **Open in Scratch 3**.
+- Clique sur **Ouvrir dans Scratch 3**.
 
 \--- /task ---
 
 \--- task ---
 
-- Click on **Project templates** at the top and select the 'Smart classroom' project to load the fan and light sprites. This project also contains pre-made yellow `broadcast` blocks, which can be found under **Events**.
+- Clique sur **Modèles de projets** en haut et sélectionne le projet « Salle de classe intelligente » pour charger les sprites de ventilateur et de lampe. Ce projet contient également des blocs « envoyer à tous » jaunes prédéfinis, qui se trouvent sous **Événements**.
 
-![Smart classroom project is selected in the Scratch templates](images/smart-classroom.png)
-
-\--- /task ---
-
-Machine Learning for Kids has added some special blocks to Scratch to allow you to use the model you just trained. Find them at the bottom of the blocks list.
-
-![New 'smart assistant' blocks shown in the menu underneath Images](images/new-blocks-menu.png)
-
-\--- task ---
-
-- Make sure you have the **Classroom** sprite selected, then click on the **Code** tab and add this code:
-
-![New scratch code: when flag clicked, forever, ask 'enter your command' and wait. If recognise text (answer) label = fan on, then broadcast turn-fan-on ](images/turn-fan-on.png)
+![Le projet Salle de classe intelligente est sélectionné dans les modèles Scratch](images/smart-classroom.png)
 
 \--- /task ---
 
+Machine Learning for Kids a ajouté des blocs spéciaux à Scratch pour te permettre d'utiliser le modèle que tu viens d'entraîner. Trouve-les en bas de la liste des blocs.
+
+![Nouveaux blocs « Assistant intelligent » affichés dans le menu sous Images](images/new-blocks-menu.png)
+
 \--- task ---
 
-- Right click on the `if` block and select **Duplicate** to add a copy of the whole block of code, and put it directly underneath the first `if`.
+- Assurez-toi d'avoir sélectionné le sprite **Salle de classe**, puis clique sur l'onglet Code et ajoute ce code :
 
-- Change the second copy of the block so that it recognises the text for turning the fan **off**, and broadcasts **turn-fan-off**.
-
-![New scratch code: If recognise text (answer) label = fan off, then broadcast turn-fan-off](images/turn-fan-off.png)
+![Nouveau code Scratch : quand le drapeau est cliqué, répéter indéfiniment, demander « Entre ta commande » et attendre. Si reconnaître texte (réponse) label = ventilateur_allume, alors envoyer à tous allumer-ventilateur](images/turn-fan-on.png)
 
 \--- /task ---
 
 \--- task ---
 
-- Click the **green flag** and type in a command to turn the fan on or off. Check that it has the result you expected.
+- Fais un clic droit sur le bloc « si » et sélectionne **Dupliquer** pour ajouter une copie de l'ensemble du bloc de code et place-le directement sous le premier « si ».
 
-- Make sure you test that the assistant performs the correct action **even for commands that you didn’t include as examples**.
+- Modifie la deuxième copie du bloc afin qu'elle reconnaisse le texte pour éteindre le ventilateur **éteint** et envoyer à tous **eteindre-ventilateur**.
+
+![Nouveau code Scratch : si reconnaître texte (réponse) label = ventilateur_eteint, alors envoyer à tous eteindre-ventilateur](images/turn-fan-off.png)
+
+\--- /task ---
+
+\--- task ---
+
+- Clique sur le **drapeau vert** et tape une commande pour allumer ou éteindre le ventilateur. Vérifie que cela donne le résultat attendu.
+
+- Assure-toi de tester que l'assistant exécute l'action correcte **même pour les commandes que tu n'as pas incluses comme exemples**.
 
 \--- /task ---
