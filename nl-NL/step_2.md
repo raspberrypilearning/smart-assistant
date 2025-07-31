@@ -2,7 +2,7 @@
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/-y9N-VXW4iE?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/aTKd6sH3PhM?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
   </div>
 </html>
 
@@ -22,17 +22,17 @@
 
 - Klik op de knop **+ Voeg een nieuw project toe**.
 
-- Name your project `Smart assistant` and set it to learn to recognise **text**, and store data **in your web browser**. Klik vervolgens op **Creëer**.
-  ![Een project maken](images/create-project-annotated.png)
+- Noem je project 'slim klaslokaal', stel het in om **tekst** te leren herkennen en stel de taal in op Dutch (Nederlands). Klik vervolgens op **Creëer**.
+  ![Een project maken](images/create-project.png)
 
-- You should now see 'Smart assistant' in the projects list. Klik op dit project.
-  ![Project list with smart classroom listed](images/projects-list-annotated.png) --- /task ---
+- Je zou nu 'slim klaslokaal' moeten zien in de projectenlijst. Klik op dit project.
+  ![Projectlijst met slimme assistent vermeld](images/projects-list.png)
 
 \--- /task ---
 
 \--- task ---
 
-- Klik op **Maak**.
-  ![Project hoofdmenu](images/project-make-annotated.png)
+- Klik op de knop **Train**.
+  ![Project hoofdmenu met een pijl naar de Train button.](images/project-train.png)
 
 \--- /task ---
