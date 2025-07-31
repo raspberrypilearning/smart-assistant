@@ -1,4 +1,4 @@
-## Example commands
+## Exemples de commandes
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,40 +6,40 @@
   </div>
 </html>
 
-The room has two devices: a fan and a light.
+La pièce dispose de deux appareils : un ventilateur et une lampe.
 
-![A fan and a light](images/classroom-devices.png)
+![Un ventilateur et une lampe](images/classroom-devices.png)
 
-Your assistant needs some examples of the phrases you might say when you want each device to be turned on or off. For example, to **turn the fan on**, you might say:
+Ton assistant a besoin de quelques exemples de phrases que tu pourrais dire lorsque tu souhaites que chaque appareil soit allumé ou éteint. Par exemple, pour **allumer le ventilateur**, tu pourrais dire :
 
-- "Turn on the fan"
-- "Start the fan"
-- "Please could you switch on the fan"
-- "I'm too hot"
-- "It's hot in here"
+- « Allume le ventilateur »
+- « Démarre le ventilateur »
+- « Peux-tu allumer le ventilateur, s'il te plaît ? »
+- « J'ai trop chaud »
+- « Il fait chaud ici »
 
 \--- task ---
 
-- Click on **+ Add new label** on the top right and add the label “fan on”.
+- Clique sur **+ Ajouter une nouvelle étiquette** en haut à droite et ajoute l’étiquette « ventilateur_allume ».
 
 \--- /task ---
 
 \--- task ---
 
-- Click on **Add example** and type in `Turn on the fan`.
+- Clique sur **Ajouter un exemple** et tape « Allume le ventilateur ».
 
 \--- /task ---
 
 \--- task ---
 
-- Continue to click on the **Add example** button and add different ways of asking for the fan to be turned on until you have eight different ways of asking.
+- Continue à cliquer sur le bouton **Ajouter un exemple** et pense à différentes façons de demander que le ventilateur soit allumé, jusqu'à ce que tu aies huit façons différentes de le demander.
 
 \--- /task ---
 
 \--- task ---
 
-- Click on **Add new label**, but this time create the label "fan off". Add eight different examples of ways you could ask for the fan to be turned off.
+- Clique sur **Ajouter une nouvelle étiquette**, mais cette fois, crée l'étiquette « ventilateur_eteint ». Ajoute huit exemples différents de façons de demander l'arrêt du ventilateur.
 
 \--- /task ---
 
-![Fan on and off categories with eight examples of commands in each](images/fan-on-and-off.png)
+![Catégories d'activation et de désactivation du ventilateur avec huit exemples de commandes dans chacune](images/fan-on-and-off.png)
