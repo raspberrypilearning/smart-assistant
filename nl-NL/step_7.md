@@ -1,4 +1,4 @@
-## Hoe betrouwbaarheidsscores te gebruiken
+## Betrouwbaarheidsscores
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,33 +6,33 @@
   </div>
 </html>
 
-The model can tell you how **confident** it is about whether it is correct.
+Het model laat je zien hoeveel **vertrouwen** het heeft is of het correct is.
 
 \--- task ---
 
 - Ga terug naar de pagina **Leer & Test** in de trainingstool.
 
-- Typ iets dat niets te maken heeft met lampen of ventilatoren in de testbox. For example, you could type in 'play some music'.
+- Typ iets dat niets te maken heeft met lampen of ventilatoren in de testbox. Je zou bijvoorbeeld 'speel wat muziek' kunnen typen.
 
-![Result of entering "play some music" is fan on with 36% confidence](images/play-music.png)
-
-\--- /task ---
-
-The **confidence score** is the program’s way of telling you how likely it is that it has labelled the command correctly.
-
-\--- task ---
-
-- Return to Scratch.
-
-- Add some new code so that the assistant will tell you it didn't understand the command if the confidence score is less than 70%.
-
-![New Scratch code: If recognise text (answer) confidence < 70, say 'Sorry I didn't understand that' for 2 seconds](images/code-with-confidence.png)
+![Resultaat van het invoeren van "speel wat muziek" is ventilator aan met 36% zekerheid](images/play-music.png)
 
 \--- /task ---
 
+**De betrouwbaarheidsscore is de manier van het programma om je te vertellen hoe zeker het is dat het een opdracht begrijpt.** Als een opdracht erg lijkt op de voorbeelden waarmee je het programma hebt getraind, is de betrouwbaarheidsscore hoog.
+
 \--- task ---
 
-- Klik op de groene vlag en test je programma om te controleren of jouw klassenassistent op de juiste manier reageert:
+- Laat Scratch open, want je komt zo terug.
+
+- Voeg wat nieuwe code toe, zodat de assistent je vertelt dat hij de opdracht niet heeft begrepen als de betrouwbaarheidsscore lager is dan 70%.
+
+![Nieuw Scratch code: Als je tekst (antwoord) vertrouwen < 70 herkent, zeg 'Sorry ik heb het niet begrepen' gedurende 2 seconden](images/code-with-confidence.png)
+
+\--- /task ---
+
+\--- task ---
+
+- Klik op de groene vlag en test je programma om te controleren of jouw assistent op de juiste manier reageert:
   - Typ opdrachten in die niets met de ventilator of lamp te maken hebben
   - Vraag om iets aan of uit te zetten
 
