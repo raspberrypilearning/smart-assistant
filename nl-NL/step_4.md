@@ -1,4 +1,4 @@
-## Verzamel voorbeelden voor training
+## Train het model
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,35 +6,35 @@
   </div>
 </html>
 
-Now that you have some example data, you can train the machine learning model to label a command as either 'fan on' or 'fan off' based on your examples.
+Nu je een paar voorbeeldgegevens hebt je kunt het machine learning model trainen om een commando te labelen als 'ventilator aan' of 'ventilator uit' op basis van je voorbeelden.
 
 \--- task ---
 
-- Click on the **< Back to project** link, then click on **Learn & Test**.
+- Klik op de link **< Terug naar project**.
 
 \--- /task ---
 
 \--- task ---
 
-- Click on the **Train new machine learning model** button.
+- Klik op de knop **Train**.
 
 \--- /task ---
 
-Wait for the training to complete — this might take a minute or two. Once the training has completed, a test box appears.
+Wacht tot de training klaar is - dit kan een paar minuten duren. Nadat de training is voltooid, verschijnt een testvak.
 
 \--- task ---
 
-- Type in `put the fan on` and check that the model labels this input as 'fan on'.
-  ![Type in put the fan on to see if it is recognised](images/test-model.png)
+- Typ `zet de ventilator aan` en controleer of het model deze invoer als `ventilator aan` labelt.
+  ![Typ zet de ventilator aan in om te zien of dit wordt herkend](images/test-model.png)
 
 \--- /task ---
 
 \--- task ---
 
-- Try typing in some other commands for turning the fan on and off, and check that they are given the label you expect.
+- Probeer andere commando's in te voeren om de ventilator aan en uit te zetten, en controleer of ze het label krijgen dat je verwacht.
 
 \--- /task ---
 
-If you’re not happy with how the computer recognises the commands, go back to the previous step and add some more examples. Then **train new machine learning model** again.
+Als je niet tevreden bent met hoe de computer de opdrachten herkent, ga je terug naar de vorige stap en voeg je nog enkele voorbeelden toe. **Train** dan het **nieuwe machine learning model** opnieuw.
 
 
