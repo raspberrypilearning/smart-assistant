@@ -1,24 +1,24 @@
 ## Wat ga je maken
 
-Create a smart virtual assistant that reacts to your commands.
+Maak een slimme virtuele assistent die reageert op jouw opdrachten.
 
-![A Scratch project with a fan and a light and a box to type in](images/whatyouwillmake.gif)
+![Een Scratch-project met een ventilator, een lampje en een vakje om in te typen](images/whatyouwillmake.gif)
 
 \--- collapse ---
 
 ---
 
-## title: Where are my commands stored?
+## title: Waar worden mijn instructies opgeslagen?
 
-- This project uses a technology called 'machine learning'. Machine learning systems are trained using a large amount of data.
-- This project does not require you to create an account or log in. For this project, the examples you use to make the model are only stored temporarily in your browser (only on your machine).
+- Dit project maakt gebruik van een technologie genaamd 'machine learning'. Machine learning-systemen worden getraind met behulp van een grote hoeveelheid data.
+- Voor dit project hoef je geen account aan te maken of in te loggen. Voor dit project worden de voorbeelden die je gebruikt om het model te maken tijdelijk opgeslagen in je browser (alleen op je machine).
   \--- /collapse ---
 
 ## --- collapse ---
 
-## title: No YouTube? Download the videos!
+## title: Geen YouTube? Download de video's!
 
-You can [download all the videos for this project](https://rpf.io/p/en/smart-assistant-go){:target="_blank"}.
+Je kunt [alle video's voor dit project downloaden](https://rpf.io/p/en/smart-assistant-go){:target="_blank"}.
 
 \--- /collapse ---
 
