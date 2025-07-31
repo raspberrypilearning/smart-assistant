@@ -1,33 +1,33 @@
 1
 00:00:04,120 --> 00:00:07,480
-Go back to the 'Learn & Test' page.
+Ga terug naar de pagina 'Leer & Test'.
 
 2
 00:00:07,480 --> 00:00:11,440
-Type something that is not 
-related to lamps or fans.
+Typ iets dat niet
+met lampen of ventilatoren te maken heeft.
 
 3
 00:00:11,440 --> 00:00:15,240
-The model should show a low 
-confidence about its prediction.
+Het model zou een lage
+betrouwbaarheidsscore over de voorspelling moeten tonen.
 
 4
 00:00:15,240 --> 00:00:19,520
-Go back to Scratch, and move all of 
-your 'if' statements to one side.
+Ga terug naar Scratch, en verplaats al je
+'als' statements naar één kant.
 
 5
 00:00:19,520 --> 00:00:26,880
-Add an 'if/else' so that your code can 
-check the model's confidence level.
+Voeg een 'als/anders' blok toe zodat je code
+het betrouwbaarheidsniveau van het model kan controleren.
 
 6
 00:00:26,880 --> 00:00:36,640
-The light or fan should only be changed 
-if the confidence level is over 70.
+Het licht of de ventilator mag alleen
+worden gewijzigd als het betrouwbaarheidsniveau hoger is dan 70.
 
 7
 00:00:36,640 --> 00:00:46,640
-Try it out!
+Probeer het uit!
 
