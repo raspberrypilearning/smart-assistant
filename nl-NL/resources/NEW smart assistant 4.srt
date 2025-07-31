@@ -1,28 +1,28 @@
 1
 00:00:03,800 --> 00:00:12,600
-Now click 'Back' again, then click 
-'Make' to use the model in Scratch.
+Klik nu nogmaals op 'Terug naar project' en klik vervolgens op
+'Maak' om het model in Scratch te gebruiken.
 
 2
 00:00:12,600 --> 00:00:20,160
-Go to 'Project templates' and select 
-the 'Smart Classroom' template.
+Ga naar 'Project templates' en selecteer
+het sjabloon 'Slim Klaslokaal'.
 
 3
 00:00:20,160 --> 00:00:29,960
-Now, drag the code blocks to ask for 
-a command and turn the fan on or off.
+Sleep nu de codeblokken om te vragen om 
+een opdracht om de ventilator aan of uit te zetten.
 
 4
 00:00:38,160 --> 00:00:48,800
-You can right click and select 
-'Duplicate' to save time.
+Je kunt met de rechtermuisknop klikken en
+'Dupliceren' selecteren om tijd te besparen.
 
 5
 00:00:48,800 --> 00:00:54,240
-Now type in a command to control the fan.
+Typ nu een opdracht om de ventilator te bedienen.
 
 6
 00:00:54,240 --> 00:00:59,920
-Type another command to turn it off.
+Typ een andere opdracht om hem uit te schakelen.
 
