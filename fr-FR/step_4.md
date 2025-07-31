@@ -1,4 +1,4 @@
-## Train the model
+## Entraîner le modèle
 
 <html>
   <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
@@ -6,35 +6,35 @@
   </div>
 </html>
 
-Now that you have some example data, you can train the machine learning model to label a command as either 'fan on' or 'fan off' based on your examples.
+Maintenant que tu disposes de quelques exemples de données, tu peux entraîner le modèle d'apprentissage automatique à étiqueter une commande comme « ventilateur allumé » ou « ventilateur éteint » sur la base de tes exemples.
 
 \--- task ---
 
-- Click on the **< Back to project** link, then click on **Learn & Test**.
+- Clique sur le lien **< Revenir au projet**, puis clique sur **Apprendre & Tester**.
 
 \--- /task ---
 
 \--- task ---
 
-- Click on the **Train new machine learning model** button.
+- Clique sur le bouton **Entraîner un nouveau modèle d'apprentissage automatique**.
 
 \--- /task ---
 
-Wait for the training to complete — this might take a minute or two. Once the training has completed, a test box appears.
+Attends que l'entraînement soit terminé — cela peut prendre une minute ou deux. Une fois l'entraînement terminé, une boîte de test apparaît.
 
 \--- task ---
 
-- Type in `put the fan on` and check that the model labels this input as 'fan on'.
-  ![Type in put the fan on to see if it is recognised](images/test-model.png)
+- Tape `allume le ventilateur` et vérifie que le modèle indique cette entrée comme « ventilateur allumé ».
+  ![Tape allume le ventilateur pour voir s'il est reconnu](images/test-model.png)
 
 \--- /task ---
 
 \--- task ---
 
-- Try typing in some other commands for turning the fan on and off, and check that they are given the label you expect.
+- Essaie de taper d'autres commandes pour allumer et éteindre le ventilateur, et vérifie qu'ils reçoivent l'étiquette attendue.
 
 \--- /task ---
 
-If you’re not happy with how the computer recognises the commands, go back to the previous step and add some more examples. Then **train new machine learning model** again.
+Si tu n'es pas satisfait·e de la façon dont l’ordinateur reconnaît les commandes, reviens à l’étape précédente et ajoute quelques exemples supplémentaires. Puis **Entraîner un nouveau modèle d'apprentissage automatique** de nouveau.
 
 
