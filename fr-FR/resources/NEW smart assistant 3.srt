@@ -1,0 +1,19 @@
+1
+00:00:03,600 --> 00:00:10,200
+Clique sur « Revenir au projet », puis sur « Apprendre & Tester ».
+
+2
+00:00:10,200 --> 00:00:14,720
+Clique sur le bouton pour commencer à entraîner 
+ton modèle - cela peut prendre un certain temps.
+
+3
+00:00:14,720 --> 00:00:18,120
+Une fois terminé, tape une 
+commande pour tester le modèle.
+
+4
+00:00:18,120 --> 00:00:29,960
+Vérifie que ta commande donne 
+le résultat attendu.
+
