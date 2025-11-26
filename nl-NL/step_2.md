@@ -1,33 +1,38 @@
-## Hoe maak je een project
+## Het project opzetten
 
---- task ---
-+ Ga naar [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} in een webbrowser.
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/aTKd6sH3PhM?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
-+ Klik op **Begin**
+\--- task ---
 
-+ Klik op **Probeer nu**. --- /task ---
+- Ga naar [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/?lang=nl-be){:target="_blank"} in een webbrowser.
 
---- task ---
-+ Klik op **Projecten** in de menubalk bovenaan.
+- Klik op **Begin**
 
-+ Klik op de knop **+ Voeg een nieuw project toe**.
+- Klik op **Probeer nu**.
 
-+ Noem je project 'slim klaslokaal', stel het in om **tekst** te leren herkennen en stel de taal in op Dutch (Nederlands).  Klik vervolgens op **Creëer**. ![Een project maken](images/create-project-annotated.png)
+\--- /task ---
 
-+ Je zou nu 'slim klaslokaal' moeten zien in de projectenlijst. Klik op dit project. ![Project list with smart classroom listed](images/projects-list-annotated.png) --- /task ---
+\--- task ---
 
---- task ---
+- Klik op **Projecten** in de menubalk bovenaan.
 
-Maak nu een project klaar in Scratch.
+- Klik op de knop **+ Voeg een nieuw project toe**.
 
-+ Klik op **Maak**. ![Project hoofdmenu](images/project-make-annotated.png)
+- Geef je project de naam 'Slimme assistent', stel het in om **tekst** te leren herkennen, en sla de data op **in jouw webbrowser**. Klik vervolgens op **Creëer**.
+  ![Een project maken](images/create-project.png)
 
-+ Klik op **Scratch 3**.
+- Je zou nu 'Slimme assistent' moeten zien in de projectenlijst. Klik op dit project.
+  ![Projectlijst met slimme assistent vermeld](images/projects-list.png)
 
-+ Klik op **Scratch automatisch opstarten**. De pagina waarschuwt je vervolgens dat je nog geen machine learning hebt uitgevoerd. Klik op **Scratch automatisch opstarten** om Scratch te starten.
+\--- /task ---
 
-+ Klik op **Project templates**. ![Scratch menubalk](images/project-templates-annotated.png)
+\--- task ---
 
-+ Klik op het sjabloon **Slim Klaslokaal**.
+- Klik op de knop **Train**.
+  ![Project hoofdmenu met een pijl naar de Train knop.](images/project-train.png)
 
-![Scratch sjabloon project](images/scratch-template.png) --- /task ---
+\--- /task ---
