@@ -1,0 +1,33 @@
+1
+00:00:04,120 --> 00:00:07,480
+Ga terug naar de pagina 'Leer & Test'.
+
+2
+00:00:07,480 --> 00:00:11,440
+Typ iets dat niet
+met lampen of ventilatoren te maken heeft.
+
+3
+00:00:11,440 --> 00:00:15,240
+Het model zou een lage
+betrouwbaarheidsscore over de voorspelling moeten tonen.
+
+4
+00:00:15,240 --> 00:00:19,520
+Ga terug naar Scratch, en verplaats al je
+'als' statements naar één kant.
+
+5
+00:00:19,520 --> 00:00:26,880
+Voeg een 'als/anders' blok toe zodat je code
+het betrouwbaarheidsniveau van het model kan controleren.
+
+6
+00:00:26,880 --> 00:00:36,640
+Het licht of de ventilator mag alleen
+worden gewijzigd als het betrouwbaarheidsniveau hoger is dan 70.
+
+7
+00:00:36,640 --> 00:00:46,640
+Probeer het uit!
+

@@ -1,0 +1,28 @@
+1
+00:00:03,800 --> 00:00:12,600
+Klik nu nogmaals op 'Terug naar project' en klik vervolgens op
+'Maak' om het model in Scratch te gebruiken.
+
+2
+00:00:12,600 --> 00:00:20,160
+Ga naar 'Projectsjablonen' en selecteer
+het sjabloon 'Slim Klaslokaal'.
+
+3
+00:00:20,160 --> 00:00:29,960
+Sleep nu de codeblokken om te vragen om 
+een opdracht om de ventilator aan of uit te zetten.
+
+4
+00:00:38,160 --> 00:00:48,800
+Je kunt met de rechtermuisknop klikken en
+'Dupliceren' selecteren om tijd te besparen.
+
+5
+00:00:48,800 --> 00:00:54,240
+Typ nu een opdracht om de ventilator te bedienen.
+
+6
+00:00:54,240 --> 00:00:59,920
+Typ een andere opdracht om hem uit te schakelen.
+
