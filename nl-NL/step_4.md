@@ -1,47 +1,40 @@
-## Verzamel voorbeelden voor training
+## Train het model
 
---- task ---
-+ Sluit het Scratch-venster en ga terug naar de trainingstool.
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/62B6yHRVmmg?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
-+ Klik op de link **< Terug naar project**. --- /task ---
+Nu je een paar voorbeeldgegevens hebt kun je het machine learning model trainen om een commando te labelen als 'ventilator aan' of 'ventilator uit' op basis van je voorbeelden.
 
---- task ---
-+ Klik op de knop **Train**. ![Project hoofdmenu](images/project-train-annotated.png)
+\--- task ---
 
-Je moet enkele voorbeelden verzamelen om de computer te trainen. Om verschillende voorbeelden te verzamelen, moet je 'containers' maken om de voorbeelden in te plaatsen.
+- Klik op de link **< Terug naar project**, en klik dan op **Leer & Test**.
 
-+ Om een container te maken, klik op **+ Voeg een nieuw label toe** en noem de container “ventilator aan”. Klik weer op **+ Voeg een nieuw label toe** en maak een tweede container met de naam "ventilator uit". Maak een derde en een vierde container genaamd "lamp aan" en "lamp uit". ![4 lege klassen genaamd ventilator_aan, ventilator_uit, lamp_aan en lamp_uit](images/empty-buckets.png)
+\--- /task ---
 
-+ Klik op de knop **Voeg een voorbeeld toe** in de container 'ventilator aan' en typ een opdracht waarin wordt gevraagd om de ventilator aan te zetten. Je kunt bijvoorbeeld typen "Kun je de ventilator inschakelen".
+\--- task ---
 
-+ Klik op de knop **Voeg een voorbeeld toe** in de container 'ventilator uit' en typ een opdracht waarin wordt gevraagd om de ventilator uit te zetten. Je kunt bijvoorbeeld typen: "Ik wil de ventilator nu uit".
+- Klik op de knop **Train nieuw machine learning model**.
 
-+ Doe hetzelfde voor de containers "lamp aan" en "lamp uit".
+\--- /task ---
 
---- /task ---
+Wacht tot de training klaar is - dit kan een paar minuten duren. Nadat de training is voltooid, verschijnt een testvak.
 
---- task ---
-+ Ga verder met **Voeg een voorbeeld toe** toe totdat je ten minste **zes** voorbeelden hebt in **elke** container.
+\--- task ---
 
-Wees fantasierijk! Probeer verschillende manieren te bedenken om elke opdracht te geven. Bijvoorbeeld:
+- Typ `zet de ventilator aan` en controleer of het model deze invoer als `ventilator aan` labelt.
+  ![Typ zet de ventilator aan in om te zien of dit wordt herkend](images/test-model.png)
 
-+ Voor "ventilator aan", zou je kunnen klagen dat je het te warm hebt.
-+ Voor "ventilator uit", zou je kunnen klagen dat het te fris is.
-+ Voor "lamp aan", zou je kunnen klagen dat je niet kunt zien.
-+ Voor "lamp uit", zou je kunnen klagen dat het te fel is.
+\--- /task ---
 
-![4 gevulde klassen genaamd ventilator_aan, ventilator_uit, lamp_aan en lamp_uit](images/full-buckets.png)
+\--- task ---
 
---- collapse ---
----
-title: Tips voor het selecteren van goede voorbeelden
----
-+ **Meer is goed**: hoe meer voorbeelden je geeft aan je programma, hoe beter het programma zou moeten worden in het herkennen van je opdrachten.
+- Probeer andere commando's in te voeren om de ventilator aan en uit te zetten, en controleer of ze het label krijgen dat je verwacht.
 
-+ **Gelijke getallen**: voeg ongeveer hetzelfde aantal voorbeelden toe voor elke opdracht. Als je veel voorbeelden voor één opdracht hebt en niet voor de andere, kan dit de manier beïnvloeden waarop het programma opdrachten leert herkennen.
+\--- /task ---
 
-+ **Maak de voorbeelden echt verschillend van elkaar**: probeer veel verschillende soorten voorbeelden te bedenken. Zorg er bijvoorbeeld voor dat je enkele lange en zeer korte voorbeelden toevoegt.
+Als je niet tevreden bent met hoe de computer de opdrachten herkent, ga je terug naar de vorige stap en voeg je nog enkele voorbeelden toe. **Train** dan het **nieuwe machine learning model** opnieuw.
 
---- /collapse --- --- /task ---
 
-In de volgende stap zult je je programma trainen om elke nieuwe opdracht automatisch te herkennen door deze te vergelijken met de voorbeelden in de vier containers.
