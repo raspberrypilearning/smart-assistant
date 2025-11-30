@@ -1,47 +1,65 @@
-## Gebruik het machine learning-model in Scratch
+## Uitdaging
 
-Werk nu je Scratch-programma bij met je machine learning-model in plaats van een op regels gebaseerde aanpak.
+\--- challenge ---
 
---- task ---
-+ Klik op de link **<Terug naar project**.
+Volg dezelfde stappen als voorheen, zodat de assistent ook het licht kan bedienen.
 
-+ Klik op **Maak**.
+\--- task ---
 
-+ Klik op **Scratch 3**.
+- Sla een kopie van je Scratch-project op op je computer, zodat je het later gemakkelijk kunt herladen om het te gebruiken met je nieuwe model.
 
-+ Lees de instructies op de pagina voor meer informatie over het gebruik van machine learning-blokken in Scratch.
+![Klik op Bestand en vervolgens op Opslaan op je computer](images/save-to-computer.png)
 
-+ Klik op **Openen in Scratch 3**.
+\--- /task ---
 
-![annotatie wijzend op Open in scratch 3 knop](images/open-scratch-3-annotated.png)
+\--- task ---
 
-+ Klik op **Bestand** en vervolgens op **Uploaden vanaf je computer**en selecteer het eerder opgeslagen Scratch-project.
+- Ga terug naar je model (**Terug naar project** > **Train**) en voeg nog twee labels toe: `licht_aan` en `licht_uit`.
 
-+ Wanneer Scratch je vraagt of het huidige project moet worden vervangen, klik je op **OK**.
+\--- /task ---
 
---- /task ---
+\--- task ---
 
---- task ---
+- Voeg acht voorbeelden toe van opdrachten die je kunt gebruiken om het licht aan te doen.
 
-+ Klik op het tabblad **Code** en werk je Scratch-code bij om je machine learning-model te gebruiken **in plaats** van de regels die je eerst hebt toegevoegd.
+\--- /task ---
 
-Het blok `herkennen tekst … (label)` is een nieuw blok dat door je project is toegevoegd. Dit nieuwe blok kan een bericht ontvangen en een van de vier labels retourneren, op basis van het door jouw getrainde machine-leermodel.
+\--- task ---
 
-![Nieuwe scratch-code inclusief nieuwe machine learning blokken](images/code-new-blocks.png) --- /task ---
+- Voeg acht voorbeelden toe van opdrachten die je kunt gebruiken om het licht uit te doen.
 
---- task ---
-+ Klik op de **groene vlag** om opnieuw te testen.
+\--- /task ---
 
-![Testen van nieuwe code van vorige instructie](images/test-with-new-blocks-annotated.png)
+\--- task ---
 
-+ Test je project: typ een opdracht en druk op <kbd>Enter</kbd> op je toetsenbord. De ventilator of lamp moet op je commando reageren.
+- Hertrain je model (**Terug naar project** > **Leer en Test**) zodat het ook commando's herkent om het licht aan en uit te zetten.
 
-Zorg ervoor dat je test of dit werkt, **zelfs voor opdrachten die je niet als voorbeelden in de containers hebt opgenomen.**
+\--- /task ---
 
-+ Sla je project op: klik op **Bestand** en vervolgens op **Opslaan op je computer**. --- /task ---
+\--- task ---
 
-Nu gebruikt je slimme virtuele klaslokaal in Scratch een machine learning-model in plaats van een op regels gebaseerde aanpak.
+- Laad je nieuwe model in Scratch (**Maak** > **Scratch 3** > **Open in Scratch 3**).
 
-Machine learning gebruiken is beter dan regels gebruiken, omdat het trainen van een programma om opdrachten voor zichzelf te herkennen veel sneller is dan proberen een lijst te maken van alle mogelijke opdrachten.
+- Klik op **Bestand** en vervolgens op **Uploaden vanaf je computer**en selecteer het eerder opgeslagen Scratch-project.
 
-Hoe meer voorbeelden je gebruikt om het machine learning-model te trainen, hoe beter je programma zou moeten worden in het herkennen van opdrachten.
+- Voeg twee extra `als`-blokken toe aan jouw programma, zodat je opdrachten kunt typen om het licht te besturen.
+
+## --- collapse ---
+
+## title: Ik kan de blokken voor licht_aan / licht_uit niet zien
+
+Als je een nieuw model hebt getraind moet je Scratch sluiten en het vervolgens heropenen via de Machine Learning for Kids website om nieuwe blokken te laten verschijnen.
+
+Klik op **Maak** > **Scratch 3** > **Open in Scratch 3**.
+
+\--- /collapse ---
+
+\--- /task ---
+
+\--- task ---
+
+- Test of je programma werkt door commando's in te typen om het licht aan en uit te zetten, en controleer of de uitkomst is zoals je had verwacht.
+
+\--- /task ---
+
+\--- /challenge ---

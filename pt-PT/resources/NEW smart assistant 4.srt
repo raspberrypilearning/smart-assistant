@@ -1,0 +1,28 @@
+1
+00:00:03,800 --> 00:00:12,600
+Agora clica novamente em 'Voltar' e depois clica em
+'Criar' para utilizar o modelo no Scratch.
+
+2
+00:00:12,600 --> 00:00:20,160
+Vai a 'Modelos de projeto' e seleciona
+o modelo 'Sala de aula inteligente'.
+
+3
+00:00:20,160 --> 00:00:29,960
+Agora, arrasta os blocos de código para solicitar um comando
+e ligar ou desligar o ventilador.
+
+4
+00:00:38,160 --> 00:00:48,800
+Pode clicar com o botão direito do rato e selecionar
+'Duplicar' para poupar tempo.
+
+5
+00:00:48,800 --> 00:00:54,240
+Agora escreve um comando para controlar o ventilador.
+
+6
+00:00:54,240 --> 00:00:59,920
+Introduza outro comando para o desligar.
+

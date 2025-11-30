@@ -18,28 +18,28 @@ Ton assistant a besoin de quelques exemples de phrases que tu pourrais dire lors
 - « J'ai trop chaud »
 - « Il fait chaud ici »
 
---- task ---
+\--- task ---
 
 - Clique sur **+ Ajouter une nouvelle étiquette** en haut à droite et ajoute l’étiquette « ventilateur_allume ».
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Clique sur **Ajouter un exemple** et tape « Allume le ventilateur ».
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Continue à cliquer sur le bouton **Ajouter un exemple** et pense à différentes façons de demander que le ventilateur soit allumé, jusqu'à ce que tu aies huit façons différentes de le demander.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Clique sur **Ajouter une nouvelle étiquette**, mais cette fois, crée l'étiquette « ventilateur_eteint ». Ajoute huit exemples différents de façons de demander l'arrêt du ventilateur.
 
---- /task ---
+\--- /task ---
 
 ![Catégories d'activation et de désactivation du ventilateur avec huit exemples de commandes dans chacune](images/fan-on-and-off.png)

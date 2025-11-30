@@ -1,53 +1,45 @@
-## Voeg een lijst met regels toe
+## Voorbeeldopdrachten
 
-In deze stap bewerk je het project met een lijst met regels voor het aan- en uitzetten van de ventilator en de lamp.
+<html>
+  <div style="position: relative; overflow: hidden; padding-top: 56.25%;">
+    <iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/aekrXl_-Q_o?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+  </div>
+</html>
 
---- task ---
-+ Klik op de sprite van **klas** om deze te selecteren, zoals hieronder weergegeven:
+De kamer heeft twee apparaten: een ventilator en een lamp.
 
-![Scratch sjabloonproject](images/scratch-template-annotated.png)
+![Een ventilator en een lamp](images/classroom-devices.png)
 
-+ Klik op het tabblad **Code** en maak het volgende script:
+Jouw assistent heeft een aantal voorbeelden nodig van zinnen die je kunt zeggen wanneer je een apparaat wilt in- of uitschakelen. Om bijvoorbeeld **de ventilator aan te zetten**, zou je kunnen zeggen:
 
-```blocks3
-wanneer groene vlag wordt aangeklikt
-herhaal 
-vraag [Voer je opdracht in] en wacht
-als <(antwoord) = [Zet de ventilator aan]> dan 
-zend signaal (zet-ventilator-aan v)
-end
-als <(antwoord) = [Zet de ventilator uit]> dan 
-zend signaal (zet-ventilator-uit v)
-end
-als <(antwoord) = [Zet de lamp aan]> dan 
-zend signaal (zet-lamp-aan v)
-end
-als <(antwoord) = [Zet de lamp uit]> dan 
-zend signaal (zet-lamp-uit v)
-end
-end
-```
+- "Zet de ventilator aan"
+- "Start de ventilator"
+- "Kunt u de ventilator even aanzetten"
+- "Ik heb het te warm"
+- "Het is warm hier"
 
-+ Klik op **Bestand** en vervolgens op **Opslaan op je computer** en sla het programma op in een bestand. --- /task ---
+\--- task ---
 
---- task ---
+- Klik rechtsboven op **+ Voeg een nieuw label toe** en voeg het label “ventilator aan” toe.
 
-+ Klik op de **groene vlag** om je programma te testen.
+\--- /task ---
 
-![Scratch-interface net nadat op de groene vlag is geklikt](images/click-flag-annotated.png)
+\--- task ---
 
-+ Typ een opdracht in en kijk hoe het programma reageert! De volgende opdrachten zouden allemaal moeten werken:
-    * "Zet de lamp aan"
-    * "Zet de lamp uit"
-    * "Zet de ventilator aan"
-    * "Zet de ventilator uit"
+- Klik op **Voeg een voorbeeld toe** en typ `Zet de ventilator aan`.
 
-* Typ iets anders en je programma doet niets! Zelfs als je een kleine spelfout maakt, reageert het programma niet.
+\--- /task ---
 
---- /task ---
+\--- task ---
 
-Je vertelt je virtuele klassenassistent om op opdrachten te reageren met een eenvoudige, op regels gebaseerde aanpak. Maar als je wilt dat je programma opdrachten begrijpt die anders zijn geformuleerd, moet je extra `als` blokken toevoegen.
+- Blijf op de knop **Voeg een voorbeeld toe** klikken en bedenk verschillende manieren om te vragen of de ventilator aangezet mag worden, totdat je acht verschillende manieren hebt om het te vragen.
 
-Het probleem met deze op regels gebaseerde benadering is dat je precies alle opdrachten moet voorspellen die de slimme klassenassistent krijgt. Het noteren van elke mogelijk opdracht zou heel, heel lang duren.
+\--- /task ---
 
-Vervolgens probeer je nu een betere aanpak: de computer leren opdrachten zelf te herkennen.
+\--- task ---
+
+- Klik op **Voeg een nieuw label toe**, maar maak deze keer het label "ventilator uit". Voeg acht verschillende voorbeelden toe van manieren waarop je kunt vragen om de ventilator uit te zetten.
+
+\--- /task ---
+
+![Ventilator aan en uit categorieën met acht voorbeelden van elk commando](images/fan-on-and-off.png)

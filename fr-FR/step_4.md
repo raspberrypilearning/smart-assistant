@@ -8,32 +8,32 @@
 
 Maintenant que tu disposes de quelques exemples de données, tu peux entraîner le modèle d'apprentissage automatique à étiqueter une commande comme « ventilateur allumé » ou « ventilateur éteint » sur la base de tes exemples.
 
---- task ---
+\--- task ---
 
 - Clique sur le lien **< Revenir au projet**, puis clique sur **Apprendre & Tester**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Clique sur le bouton **Entraîner un nouveau modèle d'apprentissage automatique**.
 
---- /task ---
+\--- /task ---
 
 Attends que l'entraînement soit terminé — cela peut prendre une minute ou deux. Une fois l'entraînement terminé, une boîte de test apparaît.
 
---- task ---
+\--- task ---
 
 - Tape `allume le ventilateur` et vérifie que le modèle indique cette entrée comme « ventilateur allumé ».
-![Tape allume le ventilateur pour voir s'il est reconnu](images/test-model.png)
+  ![Tape allume le ventilateur pour voir s'il est reconnu](images/test-model.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Essaie de taper d'autres commandes pour allumer et éteindre le ventilateur, et vérifie qu'ils reçoivent l'étiquette attendue.
 
---- /task ---
+\--- /task ---
 
 Si tu n'es pas satisfait·e de la façon dont l’ordinateur reconnaît les commandes, reviens à l’étape précédente et ajoute quelques exemples supplémentaires. Puis **Entraîner un nouveau modèle d'apprentissage automatique** de nouveau.
 

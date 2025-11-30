@@ -1,0 +1,33 @@
+1
+00:00:04,120 --> 00:00:07,480
+Volta à página "Aprender e Testar".
+
+2
+00:00:07,480 --> 00:00:11,440
+Escreve alguma coisa que não esteja
+relacionada com lâmpadas ou ventoinhas.
+
+3
+00:00:11,440 --> 00:00:15,240
+O modelo deve apresentar uma confiança baixa 
+acerca da sua previsão.
+
+4
+00:00:15,240 --> 00:00:19,520
+Volta ao Scratch, e coloca todos
+os teus comandos "se" para um dos lados.
+
+5
+00:00:19,520 --> 00:00:26,880
+Acrescenta um 'se/então' para que o teu código possa
+verificar o nível de confiança do modelo.
+
+6
+00:00:26,880 --> 00:00:36,640
+A luz e o ventilador só deverão mudar
+se o nível de confiança for superior a 70.
+
+7
+00:00:36,640 --> 00:00:46,640
+Experimenta!
+
