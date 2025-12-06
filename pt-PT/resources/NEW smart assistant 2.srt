@@ -1,0 +1,27 @@
+1
+00:00:04,320 --> 00:00:06,080
+Adiciona dois novos rótulos
+
+2
+00:00:06,080 --> 00:00:08,400
+um para ligar o ventilador,
+
+3
+00:00:08,400 --> 00:00:12,760
+e um para desligar o ventilador.
+
+4
+00:00:12,760 --> 00:00:18,200
+Introduz um exemplo de um comando
+para ligar o ventilador.
+
+5
+00:00:18,200 --> 00:00:23,240
+Repete este passo até teres 
+oito exemplos diferentes.
+
+6
+00:00:23,240 --> 00:00:29,960
+Agora precisa de oito exemplos diferentes
+de comandos para desligar o ventilador.
+
