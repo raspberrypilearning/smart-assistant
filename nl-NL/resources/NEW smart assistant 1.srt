@@ -1,0 +1,26 @@
+1
+00:00:04,040 --> 00:00:09,880
+Ga naar rpf.io/ml4k en klik op 'Begin'.
+
+2
+00:00:09,880 --> 00:00:12,640
+Klik op 'Probeer nu'.
+
+3
+00:00:12,640 --> 00:00:16,960
+Voeg een nieuw project toe met de naam 'Slimme assistent'.
+
+4
+00:00:16,960 --> 00:00:23,240
+Stel het in om Nederlandse tekst te herkennen, en 
+sla de gegevens op in je webbrowser.
+
+5
+00:00:23,240 --> 00:00:29,000
+Creëer het project en klik vervolgens
+op de projectnaam.
+
+6
+00:00:29,000 --> 00:00:29,960
+Klik nu op 'Train'.
+

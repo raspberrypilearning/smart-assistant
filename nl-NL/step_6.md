@@ -1,47 +1,66 @@
-## Gebruik het machine learning-model in Scratch
+## Uitdaging
 
-Werk nu je Scratch-programma bij met je machine learning-model in plaats van een op regels gebaseerde aanpak.
+--- challenge ---
+
+Volg dezelfde stappen als voorheen, zodat de assistent ook het licht kan bedienen.
 
 --- task ---
-+ Klik op de link **<Terug naar project**.
 
-+ Klik op **Maak**.
+- Sla een kopie van je Scratch-project op op je computer, zodat je het later gemakkelijk kunt herladen om het te gebruiken met je nieuwe model.
 
-+ Klik op **Scratch 3**.
-
-+ Lees de instructies op de pagina voor meer informatie over het gebruik van machine learning-blokken in Scratch.
-
-+ Klik op **Openen in Scratch 3**.
-
-![annotatie wijzend op Open in scratch 3 knop](images/open-scratch-3-annotated.png)
-
-+ Klik op **Bestand** en vervolgens op **Uploaden vanaf je computer**en selecteer het eerder opgeslagen Scratch-project.
-
-+ Wanneer Scratch je vraagt of het huidige project moet worden vervangen, klik je op **OK**.
+![Klik op Bestand en vervolgens op Opslaan op je computer](images/save-to-computer.png)
 
 --- /task ---
 
 --- task ---
 
-+ Klik op het tabblad **Code** en werk je Scratch-code bij om je machine learning-model te gebruiken **in plaats** van de regels die je eerst hebt toegevoegd.
+- Ga terug naar je model (**Terug naar project** > **Train**) en voeg nog twee labels toe: `licht_aan` en `licht_uit`.
 
-Het blok `herkennen tekst … (label)` is een nieuw blok dat door je project is toegevoegd. Dit nieuwe blok kan een bericht ontvangen en een van de vier labels retourneren, op basis van het door jouw getrainde machine-leermodel.
-
-![Nieuwe scratch-code inclusief nieuwe machine learning blokken](images/code-new-blocks.png) --- /task ---
+--- /task ---
 
 --- task ---
-+ Klik op de **groene vlag** om opnieuw te testen.
 
-![Testen van nieuwe code van vorige instructie](images/test-with-new-blocks-annotated.png)
+- Voeg acht voorbeelden toe van opdrachten die je kunt gebruiken om het licht aan te doen.
 
-+ Test je project: typ een opdracht en druk op <kbd>Enter</kbd> op je toetsenbord. De ventilator of lamp moet op je commando reageren.
+--- /task ---
 
-Zorg ervoor dat je test of dit werkt, **zelfs voor opdrachten die je niet als voorbeelden in de containers hebt opgenomen.**
+--- task ---
 
-+ Sla je project op: klik op **Bestand** en vervolgens op **Opslaan op je computer**. --- /task ---
+- Voeg acht voorbeelden toe van opdrachten die je kunt gebruiken om het licht uit te doen.
 
-Nu gebruikt je slimme virtuele klaslokaal in Scratch een machine learning-model in plaats van een op regels gebaseerde aanpak.
+--- /task ---
 
-Machine learning gebruiken is beter dan regels gebruiken, omdat het trainen van een programma om opdrachten voor zichzelf te herkennen veel sneller is dan proberen een lijst te maken van alle mogelijke opdrachten.
+--- task ---
 
-Hoe meer voorbeelden je gebruikt om het machine learning-model te trainen, hoe beter je programma zou moeten worden in het herkennen van opdrachten.
+- Hertrain je model (**Terug naar project** > **Leer en Test**) zodat het ook commando's herkent om het licht aan en uit te zetten.
+
+--- /task ---
+
+--- task ---
+
+- Laad je nieuwe model in Scratch (**Maak** > **Scratch 3** > **Open in Scratch 3**).
+
+- Klik op **Bestand** en vervolgens op **Uploaden vanaf je computer**en selecteer het eerder opgeslagen Scratch-project.
+
+- Voeg twee extra `als`-blokken toe aan jouw programma, zodat je opdrachten kunt typen om het licht te besturen.
+
+--- collapse ---
+---
+title: Ik kan de blokken voor licht_aan / licht_uit niet zien
+---
+
+Als je een nieuw model hebt getraind moet je Scratch sluiten en het vervolgens heropenen via de Machine Learning for Kids website om nieuwe blokken te laten verschijnen.
+
+Klik op **Maak** > **Scratch 3** > **Open in Scratch 3**.
+
+--- /collapse ---
+
+--- /task ---
+
+--- task ---
+
+- Test of je programma werkt door commando's in te typen om het licht aan en uit te zetten, en controleer of de uitkomst is zoals je had verwacht.
+
+--- /task ---
+
+--- /challenge ---
