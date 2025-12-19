@@ -1,56 +1,33 @@
-## Inleiding
+## Wat ga je maken
 
-In dit project gebruik je [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk){:target="_blank"} om een slimme virtuele klassenassistent te maken die reageert op wat je ertegen zegt. Je kunt de virtuele apparaten in de klas besturen door opdrachten in te voeren!
+Maak een slimme virtuele assistent die reageert op jouw opdrachten.
 
-Eerst maak je een assistent die een lijst met regels gebruikt om opdrachten te begrijpen, en leer je waarom die aanpak niet erg goed is.
+![Een Scratch-project met een ventilator, een lampje en een vakje om in te typen](images/whatyouwillmake.gif)
 
-Vervolgens leer je de assistent om opdrachten voor verschillende apparaten te herkennen door deze te trainen met voorbeelden van elke opdracht.
+\--- collapse ---
 
-### Wat ga je maken
-
---- print-only ---
-
-![Voltooid project](images/what-you-will-make.png)
-
---- /print-only ---
-
---- no-print ---
-
-![GIF van voltooid project](images/smart-classroom.gif)
-
---- /no-print ---
-
---- collapse ---
----
-title: Wat ga je leren
 ---
 
-+ Een machine learning-model trainen en testen
-+ Waarom deze aanpak beter is dan het gebruik van een lange lijst met regels
-+ Hoe vertrouwensscores de gebruikerservaring kunnen verbeteren
+## title: Waar worden mijn instructies opgeslagen?
 
---- /collapse ---
+- Dit project maakt gebruik van een technologie genaamd 'machine learning'. Machine learning-systemen worden getraind met behulp van een grote hoeveelheid data.
+- Voor dit project hoef je geen account aan te maken of in te loggen. Voor dit project worden de voorbeelden die je gebruikt om het model te maken tijdelijk opgeslagen in je browser (alleen op jouw machine).
+  \--- /collapse ---
 
---- collapse ---
----
-title: Wat heb je nodig
----
+## --- collapse ---
 
-+ Een computer verbonden met internet
+## title: Geen YouTube? Download de video's!
 
---- /collapse ---
+Je kunt [alle video's voor dit project downloaden](https://rpf.io/p/en/smart-assistant-go){:target="_blank"}.
 
---- collapse ---
----
-title: Aanvullende informatie voor docenten
----
+\--- /collapse ---
 
-Als je dit project wilt afdrukken, gebruik dan de [printervriendelijke versie](https://projects.raspberrypi.org/nl-NL/projects/smart-classroom/print) {:target="_blank"}.
+## --- collapse ---
 
---- /collapse ---
-
-### Licentie
+## title: Licentie
 
 Dit project heeft een dubbele licentie onder zowel een [Creative Commons Attribution Non-Commercial Share-Alike-licentie](http://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"} en een [Apache-licentie versie 2.0](http://www.apache.org/licenses/LICENSE-2.0){:target="_blank"}.
 
 We willen Dale van machinelearningforkids.co.uk graag bedanken voor al zijn werk aan dit project.
+
+\--- /collapse ---
