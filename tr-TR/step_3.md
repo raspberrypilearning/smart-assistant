@@ -18,28 +18,28 @@ Asistanınızın, her bir cihazın açılıp kapatılmasını istediğinizde sö
 - "Çok sıcakladım"
 - "Burası çok sıcak."
 
-\--- task ---
+--- task ---
 
 - Sağ üst köşedeki **+ Yeni etiket ekle** seçeneğine tıklayın ve “vantilatör açık” etiketini ekleyin.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - **Örnek ekle** seçeneğine tıklayın ve `Vantilatörü aç` yazın.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - **Örnek Ekle** düğmesine tıklamaya devam edin ve vantilatörün açılmasını istemenin farklı yollarını ekleyerek sekiz farklı istekte bulunana kadar ilerleyin.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - **Yeni etiket ekle** seçeneğine tıklayın, ancak bu sefer "vantilatör kapalı" etiketini oluşturun. Vantilatörün kapatılmasını isteyebileceğiniz sekiz farklı örnek ekleyin.
 
-\--- /task ---
+--- /task ---
 
 ![Her birinde sekiz komut örneği bulunan vantilatör açma ve kapama kategorileri](images/fan-on-and-off.png)

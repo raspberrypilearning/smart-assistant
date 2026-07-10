@@ -6,7 +6,7 @@
   </div>
 </html>
 
-\--- task ---
+--- task ---
 
 - Bir web tarayıcısında [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/){:target="_blank"} adresine gidin.
 
@@ -14,25 +14,25 @@
 
 - 'Şimdi dene'ye tıklayın.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - Üstteki menü çubuğunda **Projeler**'e tıklayın.
 
 - **+ Yeni proje ekle** düğmesine tıklayın.
 
 - Projenize `Akıllı Asistan` adını verin ve **metin** tanımayı öğrenmesini ve verileri **web tarayıcınızda** saklamasını sağlayacak şekilde ayarlayın. Ardından **Oluştur**'a tıklayın.
-  ![Proje oluşturuluyor](images/create-project.png)
+![Proje oluşturuluyor](images/create-project.png)
 
 - Projeler listesinde artık 'Akıllı asistan'ı görebiliyor olmalısınız. Projeye tıklayın.
-  ![Akıllı asistan içeren proje listesi](images/projects-list.png)
+![Akıllı asistan içeren proje listesi](images/projects-list.png)
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - **Eğit** düğmesine tıklayın.
-  ![Proje ana menüsü, Eğit düğmesine işaret eden ok ile](images/project-train.png)
+![Proje ana menüsü, Eğit düğmesine işaret eden ok ile](images/project-train.png)
 
-\--- /task ---
+--- /task ---

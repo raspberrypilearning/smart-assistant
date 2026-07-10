@@ -6,9 +6,11 @@
   </div>
 </html>
 
+
+
 Modeliniz artık komutları ayırt edebildiğine göre, onu Scratch programında kullanarak akıllı asistanınızı oluşturabilirsiniz.
 
-\--- task ---
+--- task ---
 
 - **< Projeye geri dön** bağlantısına tıklayın.
 
@@ -18,29 +20,29 @@ Modeliniz artık komutları ayırt edebildiğine göre, onu Scratch programında
 
 - **Scratch 3'te Aç** seçeneğine tıklayın.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - En üstte bulunan **Proje şablonları**'na tıklayın ve vantilatör ve ışık görsellerini yüklemek için 'Akıllı sınıf' projesini seçin. Bu proje ayrıca **Etkinlikler** başlığı altında bulunabilen önceden hazırlanmış sarı `yayın` blokları da içermektedir.
 
 ![Scratch şablonlarında Akıllı Sınıf Projesi seçildi](images/smart-classroom.png)
 
-\--- /task ---
+--- /task ---
 
 Çocuklar için Makine Öğrenimi, yeni eğittiğiniz modeli kullanmanıza olanak sağlamak için Scratch'e bazı özel bloklar ekledi. Onları blok listesinin en altında bulabilirsiniz.
 
 ![Resimlerin altındaki menüde yeni 'akıllı asistan' blokları gösteriliyor](images/new-blocks-menu.png)
 
-\--- task ---
+--- task ---
 
 - **Sınıf** görselini seçtiğinizden emin olun, ardından **Kod** sekmesine tıklayın ve şu kodu ekleyin:
 
-![Yeni Scratch kodu: bayrağa tıklandığında, sonsuza dek 'komutunuzu girin' diye sor ve bekle.] Eğer metin (cevap) etiketini tanırsan = vantilatör açık, o zaman vantilatörü-aç](images/turn-fan-on.png) mesajını yayınla.
+![Yeni Scratch kodu: bayrağa tıklandığında, sonsuza dek 'komutunuzu girin' diye sor ve bekle. Eğer metin (cevap) etiketini tanırsan = vantilatör açık, o zaman vantilatörü-aç mesajını yayınla.](images/turn-fan-on.png)
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - `eğer` bloğuna sağ tıklayın ve **Çoğalt** seçeneğini seçerek kod bloğunun tamamının bir kopyasını ekleyin ve ilk `eğer` bloğunun hemen altına yerleştirin.
 
@@ -48,12 +50,12 @@ Modeliniz artık komutları ayırt edebildiğine göre, onu Scratch programında
 
 ![Yeni geçici kod: Eğer metin (cevap) etiketini tanıyıp "vantilatör kapalı" mesajını verirse, "vantilatörü-kapat" mesajını yayınla](images/turn-fan-off.png)
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - **Yeşil bayrağa** tıklayın ve vantilatörü açmak veya kapatmak için bir komut yazın. Beklediğiniz sonucu verdiğinden emin olun.
 
 - Yardımcının, örnek olarak eklemediğiniz komutlar için bile doğru işlemi gerçekleştirdiğinden emin olun.
 
-\--- /task ---
+--- /task ---

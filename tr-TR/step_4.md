@@ -8,32 +8,32 @@
 
 Artık elinizde bazı örnek veriler olduğuna göre, makine öğrenimi modelini bu örneklere dayanarak bir komutu 'vantilatör açık' veya 'vantilatör kapalı' olarak etiketleyecek şekilde eğitebilirsiniz.
 
-\--- task ---
+--- task ---
 
 - **< Projeye geri dön** bağlantısına tıklayın, ardından **Öğren ve Test Et** seçeneğine tıklayın.
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - **Yeni makine öğrenimi modelini eğit**  düğmesine tıklayın.
 
-\--- /task ---
+--- /task ---
 
 Eğitimin tamamlanmasını bekleyin — bu bir iki dakika sürebilir. Eğitim tamamlandıktan sonra bir test kutusu görünür.
 
-\--- task ---
+--- task ---
 
 - `Vantilatör aç` yazın ve modelin bu girişi 'vantilatör açık' olarak etiketlediğini kontrol edin.
-  ![Tanınıp tanınmadığını görmek için "vantilatörü aç" yazın](images/test-model.png)
+![Tanınıp tanınmadığını görmek için "vantilatörü aç" yazın](images/test-model.png)
 
-\--- /task ---
+--- /task ---
 
-\--- task ---
+--- task ---
 
 - Vantilatörü açıp kapatmak için başka komutlar yazmayı deneyin ve beklediğiniz etiketin verilip verilmediğini kontrol edin.
 
-\--- /task ---
+--- /task ---
 
 Bilgisayarın komutları tanıma şeklinden memnun değilseniz, önceki adıma geri dönün ve birkaç örnek daha ekleyin. Ardından **yeni makine öğrenme modelini** tekrar eğitin.
 
