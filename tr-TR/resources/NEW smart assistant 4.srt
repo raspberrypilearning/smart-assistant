@@ -1,0 +1,28 @@
+1
+00:00:03,800 --> 00:00:12,600
+Şimdi tekrar 'Geri'ye tıklayın, ardından modeli Scratch'te
+kullanmak için 'Oluştur' seçeneğine tıklayın.
+
+2
+00:00:12,600 --> 00:00:20,160
+'Proje şablonları'na gidin ve
+'Akıllı Sınıf' şablonunu seçin.
+
+3
+00:00:20,160 --> 00:00:29,960
+Şimdi, komut istemek ve fanı açıp kapatmak 
+için kod bloklarını sürükleyin.
+
+4
+00:00:38,160 --> 00:00:48,800
+Zaman kazanmak için sağ tıklayıp
+'Çoğalt' seçeneğini seçebilirsiniz.
+
+5
+00:00:48,800 --> 00:00:54,240
+Şimdi vantilatörü kontrol etmek için bir komut yazın.
+
+6
+00:00:54,240 --> 00:00:59,920
+Kapatmak için başka bir komut yazın.
+

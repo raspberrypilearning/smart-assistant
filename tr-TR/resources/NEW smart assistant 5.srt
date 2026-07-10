@@ -1,0 +1,32 @@
+1
+00:00:04,120 --> 00:00:07,480
+'Öğren ve Test Et' sayfasına geri dönün.
+
+2
+00:00:07,480 --> 00:00:11,440
+Lambalar veya vantilatörlerle 
+ilgili olmayan bir şey yazın.
+
+3
+00:00:11,440 --> 00:00:15,240
+Model, tahminine ilişkin düşük
+bir güven düzeyi göstermelidir.
+
+4
+00:00:15,240 --> 00:00:19,520
+Scratch'e geri dönün ve tüm 
+'eğer' ifadelerinizi bir kenara taşıyın.
+
+5
+00:00:19,520 --> 00:00:26,880
+Kodunuzun modelin güven düzeyini kontrol edebilmesi için bir 'if/else' yapısı ekleyin.
+
+6
+00:00:26,880 --> 00:00:36,640
+Işık veya vantilatör yalnızca
+güven seviyesi 70'in üzerindeyse değiştirilmelidir.
+
+7
+00:00:36,640 --> 00:00:46,640
+Bunu deneyin!
+
