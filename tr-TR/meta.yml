@@ -1,0 +1,23 @@
+---
+title: Akıllı asistan
+hero_image: images/banner.png
+description: Komutlarınıza tepki veren akıllı bir sanal asistan oluşturun
+version: 4
+listed: true
+copyedit: true
+last_tested: '2019-05-09'
+steps:
+- title: Ne yapacaksınız
+- title: Modeli kurun
+- title: Örnek komutlar
+  completion:
+  - engaged
+- title: Modelin eğitin
+- title: Asistanı oluşturun
+- title: 'Meydan okuma'
+  challenge: true
+- title: Güven puanları
+  completion:
+  - internal
+  completion:
+  - external

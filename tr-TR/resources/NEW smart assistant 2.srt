@@ -1,0 +1,27 @@
+1
+00:00:04,320 --> 00:00:06,080
+İki yeni etiket ekleyin
+
+2
+00:00:06,080 --> 00:00:08,400
+bir tane vantilatörü çalıştırmak için,
+
+3
+00:00:08,400 --> 00:00:12,760
+ve bir tane de vantilatörü kapatmak için.
+
+4
+00:00:12,760 --> 00:00:18,200
+Vantilatörü açacak bir  
+komut örneği yazın.
+
+5
+00:00:18,200 --> 00:00:23,240
+Ardından sekiz farklı örnek 
+elde edene kadar tekrarlayın.
+
+6
+00:00:23,240 --> 00:00:29,960
+Şimdi de vantilatörü kapatmak için sekiz farklı 
+komut örneğine ihtiyacınız var.
+

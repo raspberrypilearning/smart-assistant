@@ -1,0 +1,19 @@
+1
+00:00:03,600 --> 00:00:10,200
+'Geri'ye tıklayın, ardından 'Öğren ve Test Et'e tıklayın.
+
+2
+00:00:10,200 --> 00:00:14,720
+Modelinizi eğitmeye başlamak için düğmeye tıklayın 
+- biraz zaman alabilir.
+
+3
+00:00:14,720 --> 00:00:18,120
+İşlem tamamlandığında, modeli test etmek için 
+bir komut yazın.
+
+4
+00:00:18,120 --> 00:00:29,960
+Komutunuzun beklediğiniz sonucu 
+verdiğinden emin olun.
+

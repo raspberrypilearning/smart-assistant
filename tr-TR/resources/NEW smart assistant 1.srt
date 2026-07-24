@@ -1,0 +1,25 @@
+1
+00:00:04,040 --> 00:00:09,880
+rpf.io/ml4k adresine gidin ve başlayın.
+
+2
+00:00:09,880 --> 00:00:12,640
+'Şimdi dene'ye tıklayın.
+
+3
+00:00:12,640 --> 00:00:16,960
+'Akıllı asistan' adında yeni bir proje ekleyin.
+
+4
+00:00:16,960 --> 00:00:23,240
+Türkçe metni tanıyacak şekilde ayarlayın ve verileri web tarayıcınızda saklayın.
+
+5
+00:00:23,240 --> 00:00:29,000
+Projeyi oluşturun, ardından
+projenin adına tıklayın.
+
+6
+00:00:29,000 --> 00:00:29,960
+Şimdi 'Eğit'e tıklayın.
+
