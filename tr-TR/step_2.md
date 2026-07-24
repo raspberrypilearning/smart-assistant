@@ -12,7 +12,7 @@
 
 - **Başla** seçeneğine tıklayın.
 
-- 'Şimdi dene'ye tıklayın.
+- **Şimdi dene**'ye tıklayın.
 
 --- /task ---
 
@@ -22,7 +22,7 @@
 
 - **+ Yeni proje ekle** düğmesine tıklayın.
 
-- Projenize `Akıllı Asistan` adını verin ve **metin** tanımayı öğrenmesini ve verileri **web tarayıcınızda** saklamasını sağlayacak şekilde ayarlayın. Ardından **Oluştur**'a tıklayın.
+- Projenize `Akıllı asistan` adını verin ve **metin** tanımayı öğrenmesini ve verileri **web tarayıcınızda** saklamasını sağlayacak şekilde ayarlayın. Ardından **Oluştur**'a tıklayın.
 ![Proje oluşturuluyor](images/create-project.png)
 
 - Projeler listesinde artık 'Akıllı asistan'ı görebiliyor olmalısınız. Projeye tıklayın.

@@ -11,7 +11,7 @@ title: Komutlarım nerede saklanıyor?
 ---
 
 - Bu proje 'makine öğrenimi' adı verilen bir teknolojiyi kullanıyor. Makine öğrenimi sistemleri büyük miktarda veri kullanılarak eğitilir.
-- Bu proje için hesap oluşturmanız veya giriş yapmanız gerekmiyor. Bu proje için, modeli oluşturmak üzere kullandığınız resim örnekleri yalnızca geçici olarak tarayıcınızda (yalnızca bilgisayarınızda) saklanır.
+- Bu proje için hesap oluşturmanız veya giriş yapmanız gerekmiyor. Bu proje için, modeli oluşturmak üzere kullandığınız örnekler yalnızca geçici olarak tarayıcınızda (yalnızca bilgisayarınızda) saklanır.
 --- /collapse ---
 
 --- collapse ---

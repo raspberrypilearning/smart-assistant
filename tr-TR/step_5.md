@@ -48,7 +48,7 @@ Modeliniz artık komutları ayırt edebildiğine göre, onu Scratch programında
 
 - Bloğun ikinci kopyasını, vantilatörü **kapatma** metnini tanıyacak ve **vantilatörü-kapat** komutunu yayınlayacak şekilde değiştirin.
 
-![Yeni geçici kod: Eğer metin (cevap) etiketini tanıyıp "vantilatör kapalı" mesajını verirse, "vantilatörü-kapat" mesajını yayınla](images/turn-fan-off.png)
+![Yeni Scratch kodu: Eğer metin (cevap) etiketini tanıyıp "vantilatör kapalı" mesajını verirse, "vantilatörü-kapat" mesajını yayınla](images/turn-fan-off.png)
 
 --- /task ---
 

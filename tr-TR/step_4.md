@@ -16,7 +16,7 @@ Artık elinizde bazı örnek veriler olduğuna göre, makine öğrenimi modelini
 
 --- task ---
 
-- **Yeni makine öğrenimi modelini eğit**  düğmesine tıklayın.
+- **Yeni makine öğrenimi modelini eğit** düğmesine tıklayın.
 
 --- /task ---
 
@@ -35,6 +35,6 @@ Eğitimin tamamlanmasını bekleyin — bu bir iki dakika sürebilir. Eğitim ta
 
 --- /task ---
 
-Bilgisayarın komutları tanıma şeklinden memnun değilseniz, önceki adıma geri dönün ve birkaç örnek daha ekleyin. Ardından **yeni makine öğrenme modelini** tekrar eğitin.
+Bilgisayarın komutları tanıma şeklinden memnun değilseniz, önceki adıma geri dönün ve birkaç örnek daha ekleyin. Ardından **yeni makine öğrenimi modelini** tekrar eğitin.
 
 
