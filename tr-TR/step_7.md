@@ -8,7 +8,7 @@
 
 Model, doğru olup olmadığı konusunda ne kadar **emin** olduğunu size söyleyebilir.
 
---- task ---
+\--- task ---
 
 - Eğitim aracındaki **Öğren ve Test Et** sayfasına geri dönün.
 
@@ -16,11 +16,11 @@ Model, doğru olup olmadığı konusunda ne kadar **emin** olduğunu size söyle
 
 !["müzik çal" yazmanın sonucu %36 güvenle vantilatör açık'tır](images/play-music.png)
 
---- /task ---
+\--- /task ---
 
 **Güvenilirlik puanı**, programın komutu doğru şekilde etiketleme olasılığının ne kadar yüksek olduğunu size bildirme şeklidir.
 
---- task ---
+\--- task ---
 
 - Scratch'e geri dön.
 
@@ -28,12 +28,12 @@ Model, doğru olup olmadığı konusunda ne kadar **emin** olduğunu size söyle
 
 ![Yeni Scratch kodu: Eğer metni (cevabı) tanıma güveni %70'ten düşükse, 2 saniye boyunca 'Üzgünüm, anlamadım' deyin](images/code-with-confidence.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - **Yeşil bayrağa** tıklayın ve asistanınızın doğru şekilde tepki verip vermediğini kontrol etmek için programınızı test edin:
   - Vantilatör veya lamba ile hiçbir ilgisi olmayan komutlar yazın
   - Bir şeyin açılıp kapatılmasını isteyin
 
---- /task ---
+\--- /task ---
