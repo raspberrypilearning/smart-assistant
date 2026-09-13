@@ -8,7 +8,7 @@
 
 Het model laat je zien hoeveel **vertrouwen** het heeft of het correct is.
 
---- task ---
+\--- task ---
 
 - Ga terug naar de pagina **Leer & Test** in de trainingstool.
 
@@ -16,11 +16,11 @@ Het model laat je zien hoeveel **vertrouwen** het heeft of het correct is.
 
 ![Resultaat van het invoeren van "speel wat muziek" is ventilator aan met 36% zekerheid](images/play-music.png)
 
---- /task ---
+\--- /task ---
 
 De **betrouwbaarheidsscore** is de manier waarop het programma aangeeft hoe waarschijnlijk het is dat het de opdracht correct heeft gelabeld.
 
---- task ---
+\--- task ---
 
 - Ga terug naar Scratch.
 
@@ -28,12 +28,12 @@ De **betrouwbaarheidsscore** is de manier waarop het programma aangeeft hoe waar
 
 ![Nieuwe Scratch code: Als je tekst (antwoord) vertrouwen < 70 herkent, zeg 'Sorry ik heb het niet begrepen' gedurende 2 seconden](images/code-with-confidence.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Klik op de **groene vlag** en test je programma om te controleren of jouw assistent op de juiste manier reageert:
   - Typ opdrachten in die niets met de ventilator of lamp te maken hebben
   - Vraag om iets aan of uit te zetten
 
---- /task ---
+\--- /task ---

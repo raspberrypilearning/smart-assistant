@@ -19,5 +19,3 @@ steps:
 - title: Betrouwbaarheidsscores
   completion:
   - internal
-  completion:
-  - external

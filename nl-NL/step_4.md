@@ -8,32 +8,32 @@
 
 Nu je een paar voorbeeldgegevens hebt kun je het machine learning model trainen om een commando te labelen als 'ventilator aan' of 'ventilator uit' op basis van je voorbeelden.
 
---- task ---
+\--- task ---
 
 - Klik op de link **< Terug naar project**, en klik dan op **Leer & Test**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Klik op de knop **Train nieuw machine learning model**.
 
---- /task ---
+\--- /task ---
 
 Wacht tot de training klaar is - dit kan een paar minuten duren. Nadat de training is voltooid, verschijnt een testvak.
 
---- task ---
+\--- task ---
 
 - Typ `zet de ventilator aan` en controleer of het model deze invoer als `ventilator aan` labelt.
-![Typ zet de ventilator aan in om te zien of dit wordt herkend](images/test-model.png)
+  ![Typ zet de ventilator aan in om te zien of dit wordt herkend](images/test-model.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Probeer andere commando's in te voeren om de ventilator aan en uit te zetten, en controleer of ze het label krijgen dat je verwacht.
 
---- /task ---
+\--- /task ---
 
 Als je niet tevreden bent met hoe de computer de opdrachten herkent, ga je terug naar de vorige stap en voeg je nog enkele voorbeelden toe. **Train** dan het **nieuwe machine learning model** opnieuw.
 
