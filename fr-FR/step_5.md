@@ -6,11 +6,9 @@
   </div>
 </html>
 
-
-
 Maintenant que ton modèle peut distinguer les commandes, tu peux l'utiliser dans un programme Scratch pour créer ton assistant intelligent.
 
---- task ---
+\--- task ---
 
 - Clique sur le lien **< Revenir au projet**.
 
@@ -20,29 +18,29 @@ Maintenant que ton modèle peut distinguer les commandes, tu peux l'utiliser dan
 
 - Clique sur **Ouvrir dans Scratch 3**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Clique sur **Modèles de projets** en haut et sélectionne le projet « Salle de classe intelligente » pour charger les sprites de ventilateur et de lampe. Ce projet contient également des blocs « envoyer à tous » jaunes prédéfinis, qui se trouvent sous **Événements**.
 
 ![Le projet Salle de classe intelligente est sélectionné dans les modèles Scratch](images/smart-classroom.png)
 
---- /task ---
+\--- /task ---
 
 Machine Learning for Kids a ajouté des blocs spéciaux à Scratch pour te permettre d'utiliser le modèle que tu viens d'entraîner. Trouve-les en bas de la liste des blocs.
 
 ![Nouveaux blocs « Assistant intelligent » affichés dans le menu sous Images](images/new-blocks-menu.png)
 
---- task ---
+\--- task ---
 
 - Assurez-toi d'avoir sélectionné le sprite **Salle de classe**, puis clique sur l'onglet Code et ajoute ce code :
 
 ![Nouveau code Scratch : quand le drapeau est cliqué, répéter indéfiniment, demander « Entre ta commande » et attendre. Si reconnaître texte (réponse) label = ventilateur_allume, alors envoyer à tous allumer-ventilateur](images/turn-fan-on.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Fais un clic droit sur le bloc « si » et sélectionne **Dupliquer** pour ajouter une copie de l'ensemble du bloc de code et place-le directement sous le premier « si ».
 
@@ -50,12 +48,12 @@ Machine Learning for Kids a ajouté des blocs spéciaux à Scratch pour te perme
 
 ![Nouveau code Scratch : si reconnaître texte (réponse) label = ventilateur_eteint, alors envoyer à tous eteindre-ventilateur](images/turn-fan-off.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Clique sur le **drapeau vert** et tape une commande pour allumer ou éteindre le ventilateur. Vérifie que cela donne le résultat attendu.
 
 - Assure-toi de tester que l'assistant exécute l'action correcte **même pour les commandes que tu n'as pas incluses comme exemples**.
 
---- /task ---
+\--- /task ---

@@ -8,7 +8,7 @@
 
 Nu je model onderscheid kan maken tussen commando's, kun je het gebruiken in een Scratch programma om je slimme assistent te maken.
 
---- task ---
+\--- task ---
 
 - Klik op de link **< Terug naar project**.
 
@@ -18,29 +18,29 @@ Nu je model onderscheid kan maken tussen commando's, kun je het gebruiken in een
 
 - Klik op **Open in Scratch 3**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Klik bovenaan op **Projectsjablonen** en selecteer het project 'Slim klaslokaal' om de ventilator- en lamp sprites te laden. Dit project bevat ook kant-en-klare gele `gebeurtenis` blokken, die je kunt vinden onder **Gebeurtenissen**.
 
 ![Slimk klaslokaal-project is geselecteerd in de Scratch- project sjablonen](images/smart-classroom.png)
 
---- /task ---
+\--- /task ---
 
 Machine Learning for Kids heeft een paar speciale blokken aan Scratch toegevoegd om het model dat je net hebt getraind te kunnen gebruiken. Je vindt ze onderaan de lijst met blokken.
 
 ![Nieuwe 'slimme assistent'-blokken weergegeven in het menu onder Images](images/new-blocks-menu.png)
 
---- task ---
+\--- task ---
 
 - Zorg ervoor dat je de **Klaslokaal** sprite hebt geselecteerd, klik vervolgens op het **Code** tabblad en voeg deze code toe:
 
 ![Nieuwe scratch code: wanneer op groene vlag wordt geklikt, herhaal en vraag 'voer je commando in' en wacht. Als de tekst (antwoord) label = ventilator aan herkent, zend dan zet-ventilator-aan](images/turn-fan-on.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Klik met de rechtermuisknop op het `als`-blok en selecteer **Dupliceren** om een kopie van het volledige codeblok toe te voegen en plaats deze direct onder het eerste `als`-blok.
 
@@ -48,12 +48,12 @@ Machine Learning for Kids heeft een paar speciale blokken aan Scratch toegevoegd
 
 ![Nieuwe scratch code: Als de tekst (antwoord) label = ventilator uit herkent, zend dan de zet-ventilator-uit](images/turn-fan-off.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Klik op de **groene vlag** en typ een opdracht om de ventilator aan of uit te zetten. Controleer of het resultaat is wat je verwachtte.
 
 - Controleer of de assistent de juiste actie uitvoert, **ook voor opdrachten die je niet als voorbeeld hebt opgenomen**.
 
---- /task ---
+\--- /task ---

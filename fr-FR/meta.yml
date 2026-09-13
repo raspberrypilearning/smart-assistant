@@ -18,6 +18,4 @@ steps:
   challenge: true
 - title: Score de confiance
   completion:
-  - internal
-  completion:
   - external
