@@ -8,7 +8,7 @@
 
 Le modèle peut t'indiquer à quel point il est **confiant** quant à son exactitude.
 
---- task ---
+\--- task ---
 
 - Retourne à la page **Apprendre & Tester** dans l’outil d'entraînement.
 
@@ -16,11 +16,11 @@ Le modèle peut t'indiquer à quel point il est **confiant** quant à son exacti
 
 ![Le résultat de la saisie de « joue de la musique » est « ventilateur_allume » avec 36 % de confiance](images/play-music.png)
 
---- /task ---
+\--- /task ---
 
 Le **score de confiance** est la façon dont le programme te dit à quel point il est probable qu'il ait étiqueté la commande correctement.
 
---- task ---
+\--- task ---
 
 - Reviens dans Scratch.
 
@@ -28,12 +28,12 @@ Le **score de confiance** est la façon dont le programme te dit à quel point i
 
 ![Nouveau code Scratch : si reconnaître texte (réponse) confiance < 70, dire « Désolé, je n'ai pas compris » pendant 2 secondes](images/code-with-confidence.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Clique sur le **drapeau vert** et teste ton programme pour vérifier que ton assistant réagit de la bonne manière :
   - Tape des commandes qui n’ont rien à voir avec le ventilateur ou la lampe
   - Demande que quelque chose soit allumé ou éteint
 
---- /task ---
+\--- /task ---

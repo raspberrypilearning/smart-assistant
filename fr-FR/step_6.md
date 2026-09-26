@@ -1,42 +1,42 @@
 ## Défi
 
---- challenge ---
+\--- challenge ---
 
 Suis les mêmes étapes que précédemment pour permettre à l’assistant de contrôler également la lumière.
 
---- task ---
+\--- task ---
 
 - Enregistre une copie de ton projet Scratch sur ton ordinateur afin de pouvoir facilement le recharger ultérieurement pour l'utiliser avec ton nouveau modèle.
 
 ![Clique sur Fichier puis sur Sauvegarder sur votre ordinateur](images/save-to-computer.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Reviens à ton modèle (**Revenir au projet** > **Entraîner**) et ajoute deux autres étiquettes : `allumer-lumiere` et `eteindre-lumiere`.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Ajoute huit exemples de commandes que tu pourrais utiliser pour allumer la lumière.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Ajoute huit exemples de commandes que tu pourrais utiliser pour éteindre la lumière.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Réentraîne ton modèle (**Revenir au projet** > **Apprendre & Tester**) afin qu'il puisse également reconnaître les commandes permettant d'allumer et d'éteindre la lumière.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Charge ton nouveau modèle dans Scratch (**Faire** > **Scratch 3** > **Ouvrir dans Scratch 3**).
 
@@ -44,23 +44,22 @@ Suis les mêmes étapes que précédemment pour permettre à l’assistant de co
 
 - Ajoute deux autres blocs « si » à ton programme afin de pouvoir taper des commandes pour contrôler la lumière.
 
---- collapse ---
----
-title: Je ne vois pas les blocs pour allumer-lumiere / eteindre-lumiere
----
+## --- collapse ---
+
+## title: Je ne vois pas les blocs pour allumer-lumiere / eteindre-lumiere
 
 Si tu as entraîné un nouveau modèle, tu devras fermer Scratch, puis le rouvrir à partir du site web Machine Learning for Kids pour que de nouveaux blocs apparaissent.
 
 Clique sur **Faire** > **Scratch 3** > **Ouvrir dans Scratch 3**.
 
---- /collapse ---
+\--- /collapse ---
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Teste si ton programme fonctionne en tapant des commandes pour allumer et éteindre la lumière et en vérifiant si c'est le résultat attendu.
 
---- /task ---
+\--- /task ---
 
---- /challenge ---
+\--- /challenge ---
