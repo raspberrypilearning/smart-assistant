@@ -1,0 +1,19 @@
+1
+00:00:03,600 --> 00:00:10,200
+Click 'Back', then click 'Learn & Test'.
+
+2
+00:00:10,200 --> 00:00:14,720
+Click the button to start training 
+your model - it might take a while.
+
+3
+00:00:14,720 --> 00:00:18,120
+When it is done, type in a 
+command to test the model.
+
+4
+00:00:18,120 --> 00:00:29,960
+Check that your command gives 
+the result you were expecting.
+
