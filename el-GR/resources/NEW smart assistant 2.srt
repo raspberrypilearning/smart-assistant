@@ -1,0 +1,27 @@
+1
+00:00:04,320 --> 00:00:06,080
+Add two new labels
+
+2
+00:00:06,080 --> 00:00:08,400
+one for fan on,
+
+3
+00:00:08,400 --> 00:00:12,760
+and one for fan off.
+
+4
+00:00:12,760 --> 00:00:18,200
+Type an example of a command 
+that should turn the fan on.
+
+5
+00:00:18,200 --> 00:00:23,240
+Then repeat until you have 
+eight different examples.
+
+6
+00:00:23,240 --> 00:00:29,960
+Now you need eight different examples 
+of commands to turn the fan off too.
+
