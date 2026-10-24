@@ -1,0 +1,21 @@
+---
+title: Assistente Inteligente
+hero_image: images/banner.png
+description: Cria um assistente virtual que reaja aos teus comandos
+version: 4
+listed: true
+copyedit: true
+last_tested: '2019-05-09'
+steps:
+- title: O que vais fazer
+- title: Prepara o teu projeto
+- title: Exemplos de comando
+  completion:
+  - engaged
+- title: Treina o modelo
+- title: Cria o teu assistente
+- title: 'Desafio'
+  challenge: true
+- title: Índice de confiança
+  completion:
+  - external
