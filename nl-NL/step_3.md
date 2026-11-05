@@ -18,28 +18,28 @@ Jouw assistent heeft een aantal voorbeelden nodig van zinnen die je kunt zeggen 
 - "Ik heb het te warm"
 - "Het is warm hier"
 
---- task ---
+\--- task ---
 
 - Klik rechtsboven op **+ Voeg een nieuw label toe** en voeg het label “ventilator aan” toe.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Klik op **Voeg een voorbeeld toe** en typ `Zet de ventilator aan`.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Blijf op de knop **Voeg een voorbeeld toe** klikken en bedenk verschillende manieren om te vragen of de ventilator aangezet mag worden, totdat je acht verschillende manieren hebt om het te vragen.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Klik op **Voeg een nieuw label toe**, maar maak deze keer het label "ventilator uit". Voeg acht verschillende voorbeelden toe van manieren waarop je kunt vragen om de ventilator uit te zetten.
 
---- /task ---
+\--- /task ---
 
 ![Ventilator aan en uit categorieën met acht voorbeelden van elk commando](images/fan-on-and-off.png)

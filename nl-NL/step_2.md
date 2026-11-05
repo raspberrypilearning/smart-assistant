@@ -6,7 +6,7 @@
   </div>
 </html>
 
---- task ---
+\--- task ---
 
 - Ga naar [machinelearningforkids.co.uk](https://machinelearningforkids.co.uk/?lang=nl-be){:target="_blank"} in een webbrowser.
 
@@ -14,9 +14,9 @@
 
 - Klik op **Probeer nu**.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Klik op **Projecten** in de menubalk bovenaan.
 
@@ -26,13 +26,13 @@
   ![Een project maken](images/create-project.png)
 
 - Je zou nu 'Slimme assistent' moeten zien in de projectenlijst. Klik op dit project.
-![Projectlijst met slimme assistent vermeld](images/projects-list.png)
+  ![Projectlijst met slimme assistent vermeld](images/projects-list.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
 - Klik op de knop **Train**.
-![Project hoofdmenu met een pijl naar de Train knop.](images/project-train.png)
+  ![Project hoofdmenu met een pijl naar de Train knop.](images/project-train.png)
 
---- /task ---
+\--- /task ---
