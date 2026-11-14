@@ -1,0 +1,33 @@
+1
+00:00:04,120 --> 00:00:07,480
+Go back to the 'Learn & Test' page.
+
+2
+00:00:07,480 --> 00:00:11,440
+Type something that is not 
+related to lamps or fans.
+
+3
+00:00:11,440 --> 00:00:15,240
+The model should show a low 
+confidence about its prediction.
+
+4
+00:00:15,240 --> 00:00:19,520
+Go back to Scratch, and move all of 
+your 'if' statements to one side.
+
+5
+00:00:19,520 --> 00:00:26,880
+Add an 'if/else' so that your code can 
+check the model's confidence level.
+
+6
+00:00:26,880 --> 00:00:36,640
+The light or fan should only be changed 
+if the confidence level is over 70.
+
+7
+00:00:36,640 --> 00:00:46,640
+Try it out!
+
