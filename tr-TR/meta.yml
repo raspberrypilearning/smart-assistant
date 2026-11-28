@@ -18,6 +18,4 @@ steps:
   challenge: true
 - title: Güven puanları
   completion:
-  - internal
-  completion:
   - external
